@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "REFERRED TO ENERGY",
+    "date": "2025-11-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "ENERGY",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "A9269"
+}

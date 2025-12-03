@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "REFERRED TO CALENDAR",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "CALENDAR",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "K778"
+}

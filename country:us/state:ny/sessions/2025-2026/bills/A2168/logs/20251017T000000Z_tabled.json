@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "TABLED",
+    "date": "2025-10-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "A2168"
+}

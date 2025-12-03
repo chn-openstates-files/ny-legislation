@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PRINT NUMBER 1245A",
+    "date": "2025-11-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "A1245"
+}

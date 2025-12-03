@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PRINT NUMBER 5546B",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S5546"
+}

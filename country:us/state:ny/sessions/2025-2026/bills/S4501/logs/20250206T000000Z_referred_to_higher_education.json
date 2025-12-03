@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "REFERRED TO HIGHER EDUCATION",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "HIGHER EDUCATION",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "S4501"
+}

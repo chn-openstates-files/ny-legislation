@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SIGNED CHAP.361",
+    "date": "2025-09-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "A779"
+}

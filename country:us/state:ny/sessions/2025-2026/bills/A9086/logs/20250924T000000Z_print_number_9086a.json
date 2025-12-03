@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PRINT NUMBER 9086A",
+    "date": "2025-09-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "A9086"
+}

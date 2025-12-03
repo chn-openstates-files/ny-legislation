@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "REPORTED REFERRED TO RULES",
+    "date": "2025-06-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "RULES",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "A8264"
+}

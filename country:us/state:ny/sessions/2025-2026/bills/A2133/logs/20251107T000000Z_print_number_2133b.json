@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PRINT NUMBER 2133B",
+    "date": "2025-11-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "A2133"
+}

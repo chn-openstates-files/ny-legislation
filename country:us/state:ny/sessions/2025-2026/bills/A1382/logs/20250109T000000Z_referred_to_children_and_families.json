@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "REFERRED TO CHILDREN AND FAMILIES",
+    "date": "2025-01-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "CHILDREN AND FAMILIES",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "A1382"
+}

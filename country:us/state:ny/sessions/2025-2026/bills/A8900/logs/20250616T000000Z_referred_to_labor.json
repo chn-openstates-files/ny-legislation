@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "REFERRED TO LABOR",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "LABOR",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "A8900"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "APPROVAL MEMO.4",
+    "date": "2025-11-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "A1395"
+}

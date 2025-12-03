@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "VETOED MEMO.53",
+    "date": "2025-10-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S8411"
+}

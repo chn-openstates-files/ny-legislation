@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "PRINT NUMBER 448B",
+    "date": "2025-11-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S448"
+}
