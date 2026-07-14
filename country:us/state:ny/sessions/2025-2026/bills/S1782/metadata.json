@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S1782",
-  "title": "Relates to dementia care and establishes a dementia care coordinator in the state office for the aging to manage the work of dementia care navigators",
+  "title": "Relates to dementia care navigators and coordinators",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to dementia care; establishes a dementia care coordinator in the state office for the aging to manage the work of dementia care navigators; requires each area agency to employ a dementia care navigator; sets forth the duties of the dementia care coordinator and dementia care navigators."
+      "abstract": "Requires each designated agency to employ a dementia care navigator to provide support for caregivers of individuals with dementia and to assist individuals with dementia in accessing appropriate services; requires the state office for the aging to establish the position of dementia care coordinator."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1782"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO AGING",
@@ -44,6 +48,61 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:35Z"
+      }
+    },
+    {
+      "description": "REFERRED TO AGING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "AGING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1782A",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
       }
     }
   ],
@@ -97,6 +156,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S1782A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S1782A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -104,6 +174,14 @@
     {
       "publication": "New York Laws",
       "citation": "ELD \u00a7 226",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELD/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ELD \u00a7 227",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -132,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:35Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

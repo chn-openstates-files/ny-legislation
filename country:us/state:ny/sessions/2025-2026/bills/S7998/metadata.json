@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7998",
-  "title": "Relates to reducing the embodied carbon emissions of buildings and building materials",
+  "title": "Enacts the \"low-carbon building construction act\"",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to reducing the embodied carbon emissions of buildings and building materials; provides that construction permitted under the state building code shall achieve a 15 percent reduction in embodied carbon emissions by 2030; provides three options for compliance."
+      "abstract": "Enacts the \"low-carbon building construction act\"; relates to requiring construction of any building, addition or renovation greater than 25,000 square feet meet certain standards intended to reduce the embodied carbon emissions associated with the construction."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7998"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
       }
+    },
+    {
+      "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7998A",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +90,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Brian Kavanagh\"}",
       "organization_id": null
+    },
+    {
+      "name": "Cordell Cleare",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cordell Cleare\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 8456",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 8456",
       "legislative_session": "2025-2026",
@@ -72,10 +132,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7998A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7998A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 382-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
     {
       "publication": "New York Laws",
       "citation": "EXC \u00a7 382-C",
@@ -107,6 +186,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

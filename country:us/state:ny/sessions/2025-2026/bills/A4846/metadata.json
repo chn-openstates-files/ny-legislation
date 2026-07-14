@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A4846",
-  "title": "Dedicates a portion of the state highway system to \"Trooper Gerard B. Kane and Trooper Arthur B. Reddy\"",
+  "title": "Dedicates a portion of the state highway system to Trooper Arthur A. Reddy",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Dedicates the bridge over the Southern State Parkway on Deer Park Avenue between Parkdale Drive and Sylvan Road in the town of Babylon, county of Suffolk, to \"Trooper Gerard B. Kane and Trooper Arthur B. Reddy\"."
+      "abstract": "Dedicates the bridge over the Southern State Parkway on Deer Park Avenue between Parkdale Drive and Sylvan Road in the town of Babylon, county of Suffolk, to Trooper Arthur B. Reddy."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4846"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO TRANSPORTATION",
@@ -57,6 +61,74 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:35Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4846B",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "REFERRED TO TRANSPORTATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "TRANSPORTATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4846C",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
       }
     }
   ],
@@ -104,12 +176,12 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 8224",
+      "identifier": "S 8844",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 8224",
+      "identifier": "S 8844",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -150,6 +222,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A4846B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4846B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A4846C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4846C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -165,6 +259,22 @@
     {
       "publication": "New York Laws",
       "citation": "HAY \u00a7 344-R",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/HAY/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "HAY \u00a7 344-S",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/HAY/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "HAY \u00a7 344-S",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -193,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:35Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

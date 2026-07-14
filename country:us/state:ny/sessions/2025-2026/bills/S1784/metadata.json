@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S1784",
-  "title": "Relates to the inspection of certain vacated property for abandoned animals",
+  "title": "Relates to the inspection of certain vacated or abandoned properties for abandoned companion animals",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the inspection of property that has been vacated for abandoned animals; requires property owners and lessors to inspect such property within three days and to immediately notify the appropriate authorities when such person finds an animal which appears to be abandoned."
+      "abstract": "Provides for the inspection of property that has been vacated or abandoned for abandoned companion animals."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1784"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO AGRICULTURE",
@@ -103,6 +107,196 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO AGRICULTURE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "AGRICULTURE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.514",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO AGRICULTURE",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "AGRICULTURE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "RECALLED FROM ASSEMBLY",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "VOTE RECONSIDERED - RESTORED TO THIRD READING",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING (T) 1784A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "REPASSED SENATE",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,6 +338,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Patricia Canzoneri-Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Harckham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Harckham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mario Mattera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mario Mattera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dean Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dean Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Rhoads",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Rhoads\"}",
       "organization_id": null
     },
     {
@@ -205,6 +431,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S1784A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S1784A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -216,6 +453,22 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/AGM/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPA \u00a7 1307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPA \u00a7 1971",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPA/"
     }
   ],
   "sources": [
@@ -240,6 +493,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7924"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ECONOMIC DEVELOPMENT",
@@ -32,6 +36,74 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7924A",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ECONOMIC DEVELOPMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ECONOMIC DEVELOPMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ECONOMIC DEVELOPMENT",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7924B",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -60,11 +132,6 @@
       "relation_type": "companion"
     },
     {
-      "identifier": "S 6652",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
       "identifier": "A 8624",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -85,10 +152,49 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A7924A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7924A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A7924B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7924B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GBS",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/ (generally)"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/ (generally)"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7924?summary=&detail=",
@@ -111,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

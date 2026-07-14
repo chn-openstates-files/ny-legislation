@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A2102",
-  "title": "Prohibits the sale of vape products that resemble school supplies",
+  "title": "Prohibits the sale of vape products that are made to be attractive to or target persons under the age of twenty-one",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits the sale of vape products that resemble school supplies, toys, or are packaged or advertised in any way to appeal to or target minors or the youth population."
+      "abstract": "Prohibits the sale of vape products that are made to be attractive to or target persons under the age of twenty-one or are sold in packaging that is made to be attractive to or target persons under the age of twenty-one."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2102"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -33,6 +37,85 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:38Z"
       }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2102A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO CODES",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,14 +126,57 @@
       "primary": true,
       "person_id": "~{\"name\": \"Charles Fall\"}",
       "organization_id": null
+    },
+    {
+      "name": "Demond Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Demond Meeks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Griffin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Griffin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarahana Shrestha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Jacobson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan Jacobson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Burdick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Burdick\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 195",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "S 195",
       "legislative_session": "2025-2026",
@@ -77,10 +203,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A2102A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2102A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 1399-CC",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A2102?summary=&detail=",
@@ -103,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:38Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows members of a public body who cannot physically attend a meeting due to a disability to be counted as present for quorum purposes at meetings attended remotely."
+      "abstract": "Allows members of a public body who cannot physically attend a meeting due to a disability to be counted as present for quorum purposes at meetings attended remotely; makes provisions of law relating to permitting videoconferencing and remote participation in public meetings under certain circumstances permanent."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2392"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
       }
+    },
+    {
+      "description": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2392A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 1590",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 1590",
       "legislative_session": "2025-2026",
@@ -77,10 +129,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2392A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2392A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBO \u00a7 103-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBO/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBO \u00a7 103-A",
@@ -112,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

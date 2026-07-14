@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a3998"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -32,6 +36,67 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:35Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LABOR",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 3998A",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
       }
     }
   ],
@@ -51,9 +116,57 @@
       "primary": false,
       "person_id": "~{\"name\": \"Harvey Epstein\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dana Levenberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dana Levenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Otis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Otis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert C. Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert C. Carroll\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 8667",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8667",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8667",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A3998",
@@ -64,6 +177,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3998",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A3998A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3998A",
           "media_type": "application/pdf"
         }
       ],
@@ -95,6 +219,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:35Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

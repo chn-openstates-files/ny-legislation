@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5355"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORRECTION",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CORRECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CORRECTION",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5355A",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
       }
     }
   ],
@@ -74,14 +121,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Emily Gallagher\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
       "organization_id": null
     },
     {
@@ -181,10 +220,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A5355A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5355A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 112",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CVS \u00a7 50",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CVS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CVS \u00a7 61",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CVS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "COR \u00a7 12",
@@ -240,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

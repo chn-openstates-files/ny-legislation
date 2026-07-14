@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A8874",
-  "title": "Authorizes certain persons to file an application with the New York state and local police and fire retirement system and deem such application as timely filed",
+  "title": "Authorizes the widow of Gerald J. Sullivan to file an application with the New York state and local police and fire retirement system on behalf of such deceased member and deem such application as timely filed",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Authorizes certain persons to file an application with the New York state and local police and fire retirement system and deem such application as timely filed if the expiration for filing occurred during the state of emergency caused due to the COVID-19 pandemic."
+      "abstract": "Authorizes Bonnie E. Sullivan, the widow of Gerald J. Sullivan, to file an application with the New York state and local police and fire retirement system on behalf of such deceased member and deem such application as timely filed."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8874"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
@@ -33,6 +37,207 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
       }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL EMPLOYEES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8874A",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.304",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.304",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "HOME RULE REQUEST",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "REFERRED TO RULES",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR S7844A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "3RD READING CAL.1542",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,7 +250,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 7844",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 7844",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A8874",
@@ -56,6 +272,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8874",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8874A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8874A",
           "media_type": "application/pdf"
         }
       ],
@@ -87,6 +314,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A6011",
-  "title": "Establishes a process for designating transfer-on-death beneficiaries for farming implements",
+  "title": "Establishes a process for designating transfer on death beneficiaries for farming implements",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes a process for designating transfer-on-death beneficiaries for farming implements involving filing a document with the commissioner of agriculture and markets."
+      "abstract": "Establishes a process for designating transfer on death beneficiaries for farming implements."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6011"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO AGRICULTURE",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
+      }
+    },
+    {
+      "description": "REFERRED TO AGRICULTURE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "AGRICULTURE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO AGRICULTURE",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6011A",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
       }
     }
   ],
@@ -68,11 +115,6 @@
       "relation_type": "companion"
     },
     {
-      "identifier": "S 3277",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
       "identifier": "A 10433",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -88,6 +130,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A6011",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A6011A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A6011A",
           "media_type": "application/pdf"
         }
       ],
@@ -112,6 +165,30 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/AGM/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EPT \u00a7 13-5.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EPT \u00a7 13-5.2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EPT \u00a7 5-1.4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EPT/"
     }
   ],
   "sources": [
@@ -136,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:42Z"
   }
 }

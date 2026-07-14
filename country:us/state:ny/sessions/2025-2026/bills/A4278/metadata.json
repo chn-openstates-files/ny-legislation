@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4278"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -58,6 +62,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
       }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LABOR",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4278B",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,14 +138,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zohran Mamdani",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zohran Mamdani\"}",
       "organization_id": null
     },
     {
@@ -606,15 +645,49 @@
       "organization_id": null
     },
     {
+      "name": "Khaleel Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Khaleel Anderson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Larinda Hooks",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Larinda Hooks\"}",
       "organization_id": null
+    },
+    {
+      "name": "Diana Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabriella Romero",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabriella Romero\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 9821",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9821",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 9012",
       "legislative_session": "2023-2024",
@@ -647,6 +720,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A4278B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4278B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -662,6 +746,14 @@
     {
       "publication": "New York Laws",
       "citation": "LAB \u00a7 A37",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 A38",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -690,6 +782,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

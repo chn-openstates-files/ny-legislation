@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5031"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BANKS",
@@ -146,6 +150,48 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:41Z"
       }
+    },
+    {
+      "description": "DIED IN SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.134",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 5031B",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -274,11 +320,6 @@
       "relation_type": "companion"
     },
     {
-      "identifier": "S 4603",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
       "identifier": "A 9210",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -310,10 +351,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A5031B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5031B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "BNK \u00a7 9-II",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/BNK/"
+    },
     {
       "publication": "New York Laws",
       "citation": "BNK \u00a7 9-II",
@@ -345,6 +405,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:41Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

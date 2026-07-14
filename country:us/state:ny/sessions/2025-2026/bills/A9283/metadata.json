@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes the \"Supporting Families Together act\"; removes civil and criminal penalties for mandated reporters; repeals certain provisions relating thereto."
+      "abstract": "Establishes the \"Supporting Families Together act\"; repeals certain provisions of law relating to civil and criminal penalties for mandated reporters."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a9283"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CHILDREN AND FAMILIES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:38Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CHILDREN AND FAMILIES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CHILDREN AND FAMILIES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9283A",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
       }
     }
   ],
@@ -51,9 +98,148 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dana Levenberg\"}",
       "organization_id": null
+    },
+    {
+      "name": "Emily Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phara Souffrant Forrest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phara Souffrant Forrest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harry B. Bronson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harry B. Bronson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Demond Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Demond Meeks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Gonzalez-Rojas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Gonzalez-Rojas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eddie Gibbs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eddie Gibbs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda Rosenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda Rosenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarahana Shrestha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catalina Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catalina Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yudelka Tapia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yudelka Tapia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert C. Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert C. Carroll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Anne Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Anne Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Raga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Raga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monique Chandler-Waterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monique Chandler-Waterman\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 8602",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8602",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A9283",
@@ -64,6 +250,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9283",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A9283A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9283A",
           "media_type": "application/pdf"
         }
       ],
@@ -84,6 +281,14 @@
     {
       "publication": "New York Laws",
       "citation": "SOS \u00a7 491",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 420",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -112,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:38Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

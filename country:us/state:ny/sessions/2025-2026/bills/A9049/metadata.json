@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a9049"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
+      }
+    },
+    {
+      "description": "REFERRED TO EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
       }
     }
   ],
@@ -58,6 +80,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Judy Griffin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Manny De Los Santos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Manny De Los Santos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maritza Davila",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maritza Davila\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yudelka Tapia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yudelka Tapia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Micah Lasher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Micah Lasher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew Hevesi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew Hevesi\"}",
       "organization_id": null
     }
   ],
@@ -123,6 +201,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

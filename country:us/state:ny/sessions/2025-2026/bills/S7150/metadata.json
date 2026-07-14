@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7150",
-  "title": "Relates to establishing deadlines for finalizing and objecting to nominating petitions for small city school board elections",
+  "title": "Relates to deadlines for filing nominating petitions for small city school board elections",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires that nominating petitions for small city school district elections be submitted no later than thirty days prior to the election; provides for a ten-day period for objecting to any nominating petitions; outlines the duties of the clerk of the board of education in finalizing the ballot after the ten-day objection period; provides that certain provisions concerning the date of the drawing for the names on the ballot do not apply to small city school districts."
+      "abstract": "Requires that nominating petitions for small city school district elections be submitted no later than thirty days prior to the election; makes technical corrections relating to such small city school board elections."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7150"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -33,6 +37,114 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
       }
+    },
+    {
+      "description": "REFERRED TO EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO EDUCATION",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7150A",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO EDUCATION",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7150B",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.743",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A4384B",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +158,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 4384",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 4384",
       "legislative_session": "2025-2026",
@@ -77,10 +194,64 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7150A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7150A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7150B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7150B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 2032",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 2608",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 2032",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 2608",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 2032",
@@ -120,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:23:48Z"
   }
 }

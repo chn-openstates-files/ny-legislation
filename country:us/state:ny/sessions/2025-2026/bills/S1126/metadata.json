@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1126"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -157,6 +161,18 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:38Z"
       }
+    },
+    {
+      "description": "VETOED MEMO.79",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -243,6 +259,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:38Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

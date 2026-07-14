@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7250"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LOCAL GOVERNMENTS",
@@ -139,6 +143,143 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
       }
+    },
+    {
+      "description": "DIED IN SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.185",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "COMMITTED TO LOCAL GOVERNMENTS",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LOCAL GOVERNMENTS",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7250A",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REFERENCE CHANGED TO WAYS AND MEANS",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.537",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.537",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY S1443A",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,6 +293,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 1443",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 1443",
       "legislative_session": "2025-2026",
@@ -188,10 +334,38 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A7250A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7250A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBO \u00a7 3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBO/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TWN \u00a7 23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TWN/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7250?summary=&detail=",
@@ -214,6 +388,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:23:54Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a3246"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO WAYS AND MEANS",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
       }
     }
   ],
@@ -106,14 +128,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Anna Kelles\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zohran Mamdani",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zohran Mamdani\"}",
       "organization_id": null
     },
     {
@@ -299,6 +313,86 @@
       "primary": false,
       "person_id": "~{\"name\": \"Emerita Torres\"}",
       "organization_id": null
+    },
+    {
+      "name": "Michaelle C. Solages",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michaelle C. Solages\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Simone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Simone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yudelka Tapia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yudelka Tapia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Lavine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles Lavine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Eachus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher Eachus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Demond Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Demond Meeks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Conrad",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Conrad\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grace Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Lee\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -364,6 +458,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes a Mohawk River Basin district and Mohawk River Basin management program for management of such district to conserve, protect and restore the environmental quality of the Mohawk River."
+      "abstract": "Establishes a Mohawk River Basin district and Mohawk River Basin management program for management of such district to preserve, protect, restore and enhance the environmental quality of the Mohawk River."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7970"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -32,6 +36,93 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7970A",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1632",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A8617A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
       }
     }
   ],
@@ -72,10 +163,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7970A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7970A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 11-0306-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ENV \u00a7 11-0306-B",
@@ -107,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:54Z"
   }
 }

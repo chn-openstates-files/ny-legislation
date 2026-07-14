@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A5505",
-  "title": "Relates to the inspection of certain vacated property for abandoned animals",
+  "title": "Relates to the inspection of certain vacated or abandoned properties for abandoned companion animals",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the inspection of property that has been vacated for abandoned animals; requires property owners and lessors to inspect such property within three days and to immediately notify the appropriate authorities when such person finds an animal which appears to be abandoned."
+      "abstract": "Provides for the inspection of property that has been vacated or abandoned for abandoned companion animals."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5505"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO AGRICULTURE",
@@ -33,6 +37,67 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
       }
+    },
+    {
+      "description": "REFERRED TO AGRICULTURE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "AGRICULTURE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO AGRICULTURE",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5505A",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO CODES",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +108,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Donna Lupardo\"}",
       "organization_id": null
+    },
+    {
+      "name": "Linda Rosenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda Rosenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Cashman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Cashman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Albert A. Stirpe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Albert A. Stirpe\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 1784",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 1784",
       "legislative_session": "2025-2026",
@@ -72,6 +166,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5505",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A5505A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5505A",
           "media_type": "application/pdf"
         }
       ],
@@ -112,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

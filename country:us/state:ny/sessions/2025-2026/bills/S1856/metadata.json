@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility; provides that corrections officers or staff may dispense or administer medications during a medical emergency."
+      "abstract": "Prohibits county correction officers from dispensing medications to incarcerated individuals on the premises of a local correctional facility; provides that correction officers or staff may dispense or administer medications during a medical emergency, or dispense nonprescription medication."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1856"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
@@ -100,6 +104,78 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
       }
+    },
+    {
+      "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CRIME VICTIMS, CRIME AND CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.619",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 1856B",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "COMMITTED TO RULES",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +224,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "A 3565",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 7719",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -179,10 +260,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S1856B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S1856B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 505",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
     {
       "publication": "New York Laws",
       "citation": "COR \u00a7 505",
@@ -222,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

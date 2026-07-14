@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims shall be liable for a civil penalty of five hundred dollars for a first offense and one thousand dollars for each subsequent offense; provides that the attorney general may bring an action or special proceeding in supreme court to recover civil penalties under certain circumstances."
+      "abstract": "Provides that a lodging facility that fails to comply with certain requirements for providing information concerning services for human trafficking victims shall be liable for a civil penalty of five hundred dollars for a first offense and one thousand dollars for each subsequent offense; provides for concurrent enforcement by the director or commissioner of a municipal consumer affairs office or by the town attorney, city corporation counsel, or other lawful designee of a municipality."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8939"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
@@ -33,6 +37,169 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
       }
+    },
+    {
+      "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CONSUMER AFFAIRS AND PROTECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8939A",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO CODES",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.296",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CONSUMER PROTECTION",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CONSUMER PROTECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR S9341A",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "3RD READING CAL.837",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,7 +212,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 9341",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9341",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A8939",
@@ -56,6 +234,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8939",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8939A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8939A",
           "media_type": "application/pdf"
         }
       ],
@@ -96,6 +285,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

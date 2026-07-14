@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S2509",
-  "title": "Repeals certain provisions of the correction law relating to the transfer of incarcerated individuals from a county jail to a state correctional institution",
+  "title": "Relates to the transfer of incarcerated individuals from a county jail to a state correctional institution",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Repeals provisions relating to the transfer of incarcerated individuals from a county jail to a state correctional institution."
+      "abstract": "Relates to the transfer of incarcerated individuals from a county jail to a state correctional institution when such county jail becomes unsafe for the confinement of incarcerated individuals due to extraordinary circumstances."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2509"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
@@ -44,6 +48,61 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CRIME VICTIMS, CRIME AND CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2509A",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
       }
     }
   ],
@@ -89,10 +148,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2509A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2509A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 504",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
     {
       "publication": "New York Laws",
       "citation": "COR \u00a7 504",
@@ -132,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

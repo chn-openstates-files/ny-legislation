@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a9146"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RACING AND WAGERING",
@@ -33,6 +37,130 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:42Z"
       }
+    },
+    {
+      "description": "REFERRED TO RACING AND WAGERING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RACING AND WAGERING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO CODES",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.125",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.125",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REFERRED TO RACING, GAMING AND WAGERING",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RACING, GAMING AND WAGERING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +171,36 @@
       "primary": true,
       "person_id": "~{\"name\": \"Carrie Woerner\"}",
       "organization_id": null
+    },
+    {
+      "name": "John T. McDonald III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John T. McDonald III\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alicia Hyndman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alicia Hyndman\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 10154",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 10154",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A9146",
@@ -87,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:42Z"
+    "logs_latest_update": "2026-07-14T13:24:02Z"
   }
 }

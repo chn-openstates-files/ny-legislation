@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s5229"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -32,6 +36,61 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HEALTH",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5229A",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
       }
     }
   ],
@@ -169,6 +228,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "A 6272",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 6914",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -189,10 +253,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5229A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5229A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 2808",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBH \u00a7 2808",
@@ -224,6 +307,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

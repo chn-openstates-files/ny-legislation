@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8851"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CONSUMER AFFAIRS AND PROTECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8851A",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
       }
     }
   ],
@@ -88,10 +135,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8851A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8851A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 396-Z",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "GBS \u00a7 396-Z",
@@ -123,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:23:55Z"
   }
 }

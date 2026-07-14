@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that in order to present the claim for unjust conviction and imprisonment, claimant must establish by documentary evidence that: they has been convicted of one or more felonies or misdemeanors against the state and subsequently sentenced to a term of imprisonment, and has served all or any part of the sentence; and they have had the one or more felonies and misdemeanors dismissed with prejudice following serving all or part of the sentence; and their claim is not time-barred."
+      "abstract": "Provides that in order to present the claim for unjust conviction and imprisonment, claimant must establish by documentary evidence that: they have been convicted of one or more felonies or misdemeanors against the state and subsequently sentenced to a term of imprisonment, and have served all or any part of the sentence; and they have had the one or more felonies and misdemeanors dismissed with prejudice following serving all or part of the sentence; and their claim is not time-barred."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8013"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO JUDICIARY",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
       }
+    },
+    {
+      "description": "REFERRED TO JUDICIARY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO JUDICIARY",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8013A",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 10797",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 10797",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 5824",
       "legislative_session": "2023-2024",
@@ -67,10 +124,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8013A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8013A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "CTC \u00a7 8-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CTC/"
+    },
     {
       "publication": "New York Laws",
       "citation": "CTC \u00a7 8-B",
@@ -102,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

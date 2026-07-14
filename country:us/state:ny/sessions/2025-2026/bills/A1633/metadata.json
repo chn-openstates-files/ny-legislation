@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1633"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LOCAL GOVERNMENTS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LOCAL GOVERNMENTS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LOCAL GOVERNMENTS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO LOCAL GOVERNMENTS",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1633A",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
       }
     }
   ],
@@ -147,6 +194,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Joe Angelino\"}",
       "organization_id": null
+    },
+    {
+      "name": "Dana Levenberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dana Levenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tommy Schiavoni",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tommy Schiavoni\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -186,6 +249,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A1633A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A1633A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -213,6 +287,46 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ACA \u00a7 35.07",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ACA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GMU \u00a7 204-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GMU/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GMU \u00a7 205-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GMU/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 260.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VOL \u00a7 5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VOL/"
     }
   ],
   "sources": [
@@ -237,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a3353"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 3353A",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +97,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Karl Brabenec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Angelino",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Angelino\"}",
       "organization_id": null
     }
   ],
@@ -80,10 +135,61 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A3353A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3353A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 A15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 156",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 156-H",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 392-J",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 270.00",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
     {
       "publication": "New York Laws",
       "citation": "TAX \u00a7 A15",
@@ -147,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:23:46Z"
   }
 }

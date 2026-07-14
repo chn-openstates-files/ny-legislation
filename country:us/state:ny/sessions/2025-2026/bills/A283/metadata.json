@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a283"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -75,6 +79,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
       }
     }
   ],
@@ -246,6 +268,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jen Lunsford\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jaime R. Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jaime R. Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anna Kelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Kelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catalina Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catalina Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Cunningham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dana Levenberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dana Levenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amanda Septimo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amanda Septimo\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -336,6 +406,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:46Z"
+    "logs_latest_update": "2026-07-14T13:23:45Z"
   }
 }

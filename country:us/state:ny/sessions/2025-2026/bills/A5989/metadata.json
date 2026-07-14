@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5989"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORRECTION",
@@ -69,6 +73,84 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:46Z"
       }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.408",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CRIME VICTIMS, CRIME AND CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,14 +176,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Harvey Epstein\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
       "organization_id": null
     },
     {
@@ -134,6 +208,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Chris Burdick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Anne Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Anne Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alicia Hyndman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alicia Hyndman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dana Levenberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dana Levenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nader Sayegh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nader Sayegh\"}",
       "organization_id": null
     }
   ],
@@ -204,6 +310,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:46Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

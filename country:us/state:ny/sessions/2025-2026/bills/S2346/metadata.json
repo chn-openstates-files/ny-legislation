@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S2346",
-  "title": "Enacts the \"gas tax holiday act of 2025\"",
+  "title": "Enacts the \"gas tax holiday act\"",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Enacts the \"gas tax holiday act\"; provides that from the first of the month after the effective date of the section until December 31, 2025 the taxes imposed on retail sales of fuel gas, motor fuel and diesel motor fuel shall be exempt from certain taxes."
+      "abstract": "Enacts the \"gas tax holiday act\"; provides that from the first of the month after the effective date of the section until December 31, 2027 the taxes imposed on retail sales of fuel gas, motor fuel and diesel motor fuel shall be exempt from certain taxes."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2346"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BUDGET AND REVENUE",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
       }
+    },
+    {
+      "description": "REFERRED TO BUDGET AND REVENUE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "BUDGET AND REVENUE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO BUDGET AND REVENUE",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2346A",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 11438",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 11438",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 4925",
       "legislative_session": "2023-2024",
@@ -72,10 +129,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2346A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2346A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 50",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 392-I",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 89-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 1817",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
     {
       "publication": "New York Laws",
       "citation": "TAX \u00a7 50",
@@ -131,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

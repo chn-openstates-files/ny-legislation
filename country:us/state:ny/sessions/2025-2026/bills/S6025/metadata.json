@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s6025"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -115,6 +119,126 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.1207",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -164,6 +288,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Julia Salazar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Scarcella-Spanton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
       "organization_id": null
     },
     {
@@ -250,6 +382,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:24:02Z"
   }
 }

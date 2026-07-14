@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a70"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
@@ -128,6 +132,16 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
       }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.3",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,6 +175,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Maritza Davila\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda Rosenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda Rosenthal\"}",
       "organization_id": null
     }
   ],
@@ -242,6 +272,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:24:02Z"
   }
 }

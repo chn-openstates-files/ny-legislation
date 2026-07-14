@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A7332",
-  "title": "Establishes a doula awareness and education program",
+  "title": "Includes doula awareness in the department of health's education and outreach program",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Directs the department of health to conduct an ongoing public awareness and education program on doulas and how beneficial they are to pregnancies."
+      "abstract": "Includes doula awareness and the advantages of utilizing a doula in the department of health's education and outreach program."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7332"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -33,6 +37,125 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:41Z"
       }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7332A",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.398",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.398",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY S5665B",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +165,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jordan Wright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Otis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Otis\"}",
       "organization_id": null
     }
   ],
@@ -67,6 +198,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7332",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A7332A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7332A",
           "media_type": "application/pdf"
         }
       ],
@@ -107,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:41Z"
+    "logs_latest_update": "2026-07-14T13:24:02Z"
   }
 }

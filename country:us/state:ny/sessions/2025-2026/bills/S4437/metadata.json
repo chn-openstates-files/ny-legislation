@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Amends high income personal income tax rates above $5,000,000."
+      "abstract": "Amends the alternative tax table benefit recapture; increases the rate of supplemental tax for high income taxpayers."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s4437"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BUDGET AND REVENUE",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO BUDGET AND REVENUE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "BUDGET AND REVENUE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO BUDGET AND REVENUE",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4437A",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
       }
     }
   ],
@@ -53,20 +100,31 @@
       "organization_id": null
     },
     {
+      "name": "Michelle Hinchey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Hinchey\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Liu",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"John Liu\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jessica Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
-    {
-      "identifier": "A 5435",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 5435",
       "legislative_session": "2025-2026",
@@ -88,10 +146,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S4437A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S4437A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
     {
       "publication": "New York Laws",
       "citation": "TAX \u00a7 601",
@@ -123,6 +200,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2071"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
@@ -103,6 +107,166 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.554",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMENDED (T) 2071A",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR A6084A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.394",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -112,6 +276,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph P. Addabbo Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph P. Addabbo Jr.\"}",
       "organization_id": null
     },
     {
@@ -163,6 +335,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2071A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2071A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -182,6 +365,14 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/VET/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 45",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
     }
   ],
   "sources": [
@@ -206,6 +397,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:23:48Z"
   }
 }

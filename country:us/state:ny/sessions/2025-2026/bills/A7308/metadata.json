@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7308"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO WAYS AND MEANS",
@@ -57,6 +61,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
       }
     }
   ],
@@ -284,6 +306,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tony Simone\"}",
       "organization_id": null
+    },
+    {
+      "name": "Michaelle C. Solages",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michaelle C. Solages\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Conrad",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Conrad\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stefani Zinerman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stefani Zinerman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Paulin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Paulin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -431,6 +485,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

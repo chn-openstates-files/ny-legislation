@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2441"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CHILDREN AND FAMILIES",
@@ -98,6 +102,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:46Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.89",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
       }
     }
   ],
@@ -279,11 +293,11 @@
       "organization_id": null
     },
     {
-      "name": "Kwani O'Pharrow",
+      "name": "Larinda Hooks",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
+      "person_id": "~{\"name\": \"Larinda Hooks\"}",
       "organization_id": null
     }
   ],
@@ -345,6 +359,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:46Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

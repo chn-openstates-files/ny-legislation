@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7743",
-  "title": "Relates to requiring instruction in cursive writing as part of the basic education program",
+  "title": "Clarifies that the writing requirement that is part of compulsory education includes cursive writing",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires instruction in cursive writing as part of the basic education program."
+      "abstract": "Clarifies that the writing requirement that is part of compulsory education includes cursive writing."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7743"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
+      }
+    },
+    {
+      "description": "REFERRED TO EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO EDUCATION",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7743A",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -72,6 +119,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7743A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7743A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -79,6 +137,14 @@
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 819",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 3204",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -107,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6189"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CHILDREN AND FAMILIES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:42Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CHILDREN AND FAMILIES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CHILDREN AND FAMILIES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CHILDREN AND FAMILIES",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6189A",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
       }
     }
   ],
@@ -67,9 +114,28 @@
       "primary": false,
       "person_id": "~{\"name\": \"Maritza Davila\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tony Simone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Simone\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4260",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 4260",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A6189",
@@ -85,10 +151,45 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A6189A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A6189A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 A10-D",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 249",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 371",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "FCT \u00a7 A10-D",
@@ -136,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:42Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

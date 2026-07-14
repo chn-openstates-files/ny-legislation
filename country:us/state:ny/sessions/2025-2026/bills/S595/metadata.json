@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s595"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
@@ -107,6 +111,81 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 595A",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,6 +224,16 @@
   ],
   "related_bills": [
     {
+      "identifier": "A 489",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 489",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 1685",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -170,6 +259,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S595A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S595A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -177,6 +277,14 @@
     {
       "publication": "New York Laws",
       "citation": "PVH \u00a7 A17-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 A33",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -205,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

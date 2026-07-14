@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1325"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORRECTION",
@@ -139,6 +143,76 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
       }
+    },
+    {
+      "description": "DIED IN SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.48",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO SENATE",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CRIME VICTIMS, CRIME AND CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -245,6 +319,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Grace Lee\"}",
       "organization_id": null
+    },
+    {
+      "name": "Michael Novakhov",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Novakhov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan Rivera\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -315,6 +405,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

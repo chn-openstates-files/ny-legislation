@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes an internationally trained physician licensure pathway program to allow qualified, foreign-trained physicians to contribute to the healthcare system through supervised practice in designated shortage areas, ultimately leading to full licensure."
+      "abstract": "Establishes an internationally trained physician licensure pathway program to allow qualified, foreign-trained physicians and physicians trained and/or licensed to practice medicine in a territory or possession of the United States to contribute to the healthcare system through supervised practice in designated shortage areas, ultimately leading to full licensure."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7840"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HIGHER EDUCATION",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
       }
+    },
+    {
+      "description": "REFERRED TO HIGHER EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HIGHER EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HIGHER EDUCATION",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7840A",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +89,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Weber\"}",
       "organization_id": null
     }
   ],
@@ -72,10 +127,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7840A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7840A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6525-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 6525-A",
@@ -107,6 +181,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

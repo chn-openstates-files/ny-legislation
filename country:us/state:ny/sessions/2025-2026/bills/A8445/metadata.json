@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A8445",
-  "title": "Relates to dementia care and establishes a dementia care coordinator in the state office for the aging to manage the work of dementia care navigators",
+  "title": "Relates to dementia care navigators and coordinators",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to dementia care; establishes a dementia care coordinator in the state office for the aging to manage the work of dementia care navigators; requires each area agency to employ a dementia care navigator; sets forth the duties of the dementia care coordinator and dementia care navigators."
+      "abstract": "Requires each designated agency to employ a dementia care navigator to provide support for caregivers of individuals with dementia and to assist individuals with dementia in accessing appropriate services; requires the state office for the aging to establish the position of dementia care coordinator."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8445"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO AGING",
@@ -33,6 +37,67 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
       }
+    },
+    {
+      "description": "REFERRED TO AGING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "AGING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO AGING",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8445A",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +108,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Rebecca Seawright\"}",
       "organization_id": null
+    },
+    {
+      "name": "Judy Griffin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Griffin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paula Kay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paula Kay\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 1782",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 1782",
       "legislative_session": "2025-2026",
@@ -77,13 +171,24 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8445A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8445A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
     {
       "publication": "New York Laws",
-      "citation": "ELD \u00a7 226",
+      "citation": "ELD \u00a7 227",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -112,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

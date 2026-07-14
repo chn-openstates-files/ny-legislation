@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1328"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ECONOMIC DEVELOPMENT",
@@ -57,6 +61,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ECONOMIC DEVELOPMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ECONOMIC DEVELOPMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
       }
     }
   ],
@@ -150,14 +172,6 @@
       "organization_id": null
     },
     {
-      "name": "Larinda Hooks",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Larinda Hooks\"}",
-      "organization_id": null
-    },
-    {
       "name": "Phara Souffrant Forrest",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -227,6 +241,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sam Berger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larinda Hooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larinda Hooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan Wright",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan Wright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eddie Gibbs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eddie Gibbs\"}",
       "organization_id": null
     }
   ],
@@ -361,6 +399,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

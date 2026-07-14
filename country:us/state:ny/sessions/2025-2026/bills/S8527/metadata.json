@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that real property held in the cooperative form of ownership by a minister of the gospel, priest or rabbi of any denomination, an actual resident and inhabitant of this state, who is engaged in the work assigned by the church or denomination of which such person is a member, or who is unable to perform such work due to impaired health or is over seventy years of age, shall be exempt from taxation to the extent of fifteen hundred dollars; provides that certain properties receiving a tax exemption pursuant to the clergy property tax exemption are eligible to receive a partial abatement for residential real property held in the cooperative or condominium form of ownership in a city having a population of one million or more."
+      "abstract": "Permits local governments to extend the existing clergy residential property tax exemption to include clergy residing in co-ops; clarifies that the clergy property tax exemption shall not affect eligibility for certain other tax abatements."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8527"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -33,6 +37,101 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
       }
+    },
+    {
+      "description": "REFERRED TO LOCAL GOVERNMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LOCAL GOVERNMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LOCAL GOVERNMENT",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8527A",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.763",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 8527B",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A9570C",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,12 +146,17 @@
   ],
   "related_bills": [
     {
-      "identifier": "A 9132",
+      "identifier": "A 9570",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "A 9132",
+      "identifier": "A 9570",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 9570",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     }
@@ -72,10 +176,64 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8527A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8527A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S8527B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8527B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 460",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 467-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 460",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 467-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
     {
       "publication": "New York Laws",
       "citation": "RPT \u00a7 460",
@@ -115,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A9250",
-  "title": "Requires the installation of a master key box at each school building for building access by law enforcement and emergency responders",
+  "title": "Requires the installation of school master key boxes for building access by law enforcement and emergency responders",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires the installation of a master key box at each school building for building access by law enforcement and emergency responders; must meet the underwriters laboratories standard UL 1037."
+      "abstract": "Requires the installation of master key boxes for building access by law enforcement and emergency responders; requires they must meet the underwriters laboratories standard UL 1037."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a9250"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
       }
+    },
+    {
+      "description": "REFERRED TO EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO EDUCATION",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9250A",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 7999",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 7999",
       "legislative_session": "2025-2026",
@@ -72,6 +124,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A9250A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9250A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -79,6 +142,46 @@
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 409-O",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 2801-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 3602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 409-O",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 2801-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 3602",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -107,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits landlords from restricting the installation of appliances or fixtures by tenants; provides that the landlord is not compelled to change utilities for such installation; prohibits surcharge where tenant pays utilities directly to provider; requires a tenant restore appliances or fixtures to the condition they were prior to being installed or allowing such appliances or fixtures remain in the rental unit at no cost to the landlord; defines \"appliances or fixtures\"."
+      "abstract": "Prohibits landlords from restricting the installation of appliances or fixtures by tenants; provides that the landlord is not compelled to change utilities or alter the unit for such installation; prohibits surcharge where tenant pays utilities directly to provider; requires a tenant restore appliances or fixtures to the condition they were prior to being installed or allowing such appliances or fixtures remain in the rental unit at no cost to the landlord; defines \"appliances or fixtures\"."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1865"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING",
@@ -118,6 +122,48 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
       }
+    },
+    {
+      "description": "DIED IN SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.70",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 1865B",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +228,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "S 6729",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "A 5694",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -213,10 +264,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A1865B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A1865B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "RPP \u00a7 226-AA",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/"
+    },
     {
       "publication": "New York Laws",
       "citation": "RPP \u00a7 226-AA",
@@ -248,6 +318,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

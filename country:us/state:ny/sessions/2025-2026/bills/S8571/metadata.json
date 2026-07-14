@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8571"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -33,6 +37,89 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
       }
+    },
+    {
+      "description": "REFERRED TO TRANSPORTATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "TRANSPORTATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8571A",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.1271",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A9351A",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +130,84 @@
       "primary": true,
       "person_id": "~{\"name\": \"Christopher Ryan\"}",
       "organization_id": null
+    },
+    {
+      "name": "Joseph P. Addabbo Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph P. Addabbo Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen T. Chan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen T. Chan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dean Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dean Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zellnor Myrie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zellnor Myrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony H. Palumbo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony H. Palumbo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Scarcella-Spanton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Sutton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Sutton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Weber\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 9351",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 9351",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "S8571",
@@ -61,10 +223,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8571A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8571A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 404-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
     {
       "publication": "New York Laws",
       "citation": "VAT \u00a7 404-A",
@@ -96,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

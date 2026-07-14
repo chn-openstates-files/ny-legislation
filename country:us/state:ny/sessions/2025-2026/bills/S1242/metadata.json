@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Revises the New York state veteran's memorial and monument registry such that it is easier to navigate and has deadlines for the submission of memorials and monuments and the updating of the registry."
+      "abstract": "Revises the New York state veteran's memorial and monument registry such that it is easier to navigate; relates to the updating and availability of the registry."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1242"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
@@ -33,6 +37,93 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
       }
+    },
+    {
+      "description": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1242A",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1343",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A3397A",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +137,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 3397",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 3397",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 8962",
       "legislative_session": "2023-2024",
@@ -67,6 +168,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S1242A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S1242A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -74,6 +186,22 @@
     {
       "publication": "New York Laws",
       "citation": "VET \u00a7 29-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VET/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VET \u00a7 29-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VET/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VET \u00a7 4",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -102,6 +230,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

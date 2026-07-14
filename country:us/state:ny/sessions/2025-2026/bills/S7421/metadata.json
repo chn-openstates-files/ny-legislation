@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that no person shall engage in the aquaculture of any species of octopus in the state for the purpose of human consumption."
+      "abstract": "Provides that no person shall engage in the operation of a marine hatchery or in the off-bottom or on-bottom culture of any species belonging to the order Octopoda unless for scientific or educational purposes for the purpose of human consumption."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7421"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -58,6 +62,148 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
       }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.1307",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 7421B",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR A8043C",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.460",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +216,38 @@
       "organization_id": null
     },
     {
+      "name": "Erik Bottcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erik Bottcher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jabari Brisport",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jabari Brisport\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patricia Canzoneri-Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia Canzoneri-Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Gianaris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Gianaris\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kristen Gonzalez",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -78,11 +256,43 @@
       "organization_id": null
     },
     {
+      "name": "Dean Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dean Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Rhoads",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Rhoads\"}",
+      "organization_id": null
+    },
+    {
       "name": "Julia Salazar",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Julia Salazar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Tedisco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Tedisco\"}",
       "organization_id": null
     }
   ],
@@ -129,10 +339,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7421B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7421B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 13-0316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-0925",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ENV \u00a7 13-0316-A",
@@ -151,7 +388,7 @@
     },
     {
       "publication": "New York Laws",
-      "citation": "ENV \u00a7 13-0316-A",
+      "citation": "ENV \u00a7 13-0316",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -188,6 +425,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:23:50Z"
   }
 }

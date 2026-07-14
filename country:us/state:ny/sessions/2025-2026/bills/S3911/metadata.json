@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits public food service establishments operating in the state from providing excess food service items including utensils, condiments, napkins and extra containers, to any customer except upon, and in accordance with, the express request of that customer."
+      "abstract": "Prohibits public food service establishments operating in the state from providing excess food service items including single-use utensils, condiments, napkins and extra containers, to any customer except upon, and in accordance with, the express request of that customer."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s3911"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -58,6 +62,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
       }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 3911B",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +118,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 6949",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 6949",
       "legislative_session": "2025-2026",
@@ -103,6 +155,17 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/S3911A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S3911B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S3911B",
           "media_type": "application/pdf"
         }
       ],
@@ -143,6 +206,22 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 A27T34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 92-S",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
     }
   ],
   "sources": [
@@ -167,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:23:50Z"
   }
 }

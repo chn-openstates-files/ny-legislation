@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A7781",
-  "title": "Relates to providing reforms to the New York state worker adjustment and retraining notification act",
+  "title": "Relates to providing reforms to the New York state worker adjustment and retraining notification act; repealer",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7781"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO LABOR",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7781A",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
       }
     }
   ],
@@ -63,6 +110,16 @@
   ],
   "related_bills": [
     {
+      "identifier": "S 2595",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2595",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "A 375",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -88,10 +145,78 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A7781A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7781A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-D",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-E",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-G",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 860-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7781?summary=&detail=",
@@ -114,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S6983",
-  "title": "Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program",
+  "title": "Establishes the New York dignity in pregnancy and childbirth act and requires hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires hospitals to provide expectant birthing parents with written information regarding certain patient rights; requires information related to pregnancy, if known, to be included on death certificates."
+      "abstract": "Establishes the New York dignity in pregnancy and childbirth act; requires hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires the department of health to publish reports on maternal morbidity and pregnancy related deaths."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s6983"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO WOMEN'S ISSUES",
@@ -33,6 +37,153 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
       }
+    },
+    {
+      "description": "REFERRED TO WOMEN'S ISSUES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WOMEN'S ISSUES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO WOMEN'S ISSUES",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6983A",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1715",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED FOR A4018A",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.291",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PASSED ASSEMBLY",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +193,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jabari Brisport\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristen Gonzalez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen Gonzalez\"}",
       "organization_id": null
     },
     {
@@ -88,13 +247,24 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S6983A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S6983A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
     {
       "publication": "New York Laws",
-      "citation": "PBH \u00a7 A25T9",
+      "citation": "PBH \u00a7 2803-NN",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -102,7 +272,7 @@
     },
     {
       "publication": "New York Laws",
-      "citation": "PBH \u00a7 2803-N",
+      "citation": "PBH \u00a7 2509",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -110,7 +280,15 @@
     },
     {
       "publication": "New York Laws",
-      "citation": "PBH \u00a7 4141",
+      "citation": "PBH \u00a7 2803-NN",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 2509",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -139,6 +317,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

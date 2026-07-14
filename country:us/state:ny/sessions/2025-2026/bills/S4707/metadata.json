@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to expanding the geographic area of employment of state university police officers, the centralization of the state university police by appointing a commissioner of state university police, and hiring of state university police officers."
+      "abstract": "Expands the geographic area of employment of state university police officers; centralizes the state university police by appointing a commissioner of state university police; provides for the hiring of state university police officers."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s4707"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HIGHER EDUCATION",
@@ -45,6 +49,136 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "REFERRED TO HIGHER EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HIGHER EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HIGHER EDUCATION",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4707A",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HIGHER EDUCATION",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4707B",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1355",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HIGHER EDUCATION",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HIGHER EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,11 +191,35 @@
       "organization_id": null
     },
     {
+      "name": "Siela Bynoe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Siela Bynoe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Cooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Cooney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Patrick M. Gallivan",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Patrick M. Gallivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Harckham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Harckham\"}",
       "organization_id": null
     },
     {
@@ -99,6 +257,11 @@
       "identifier": "A 5887",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "A 5887",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -116,10 +279,96 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S4707A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S4707A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S4707B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S4707B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 1.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 355",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 211",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 1.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 1.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 355",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 211",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 1.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
     {
       "publication": "New York Laws",
       "citation": "CPL \u00a7 1.20",
@@ -175,6 +424,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:55Z"
   }
 }

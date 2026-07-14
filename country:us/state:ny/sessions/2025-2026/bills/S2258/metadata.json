@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S2258",
-  "title": "Relates to requiring emergency notices be provided to consumers in certain languages",
+  "title": "Relates to requiring emergency notices be provided to customers in certain languages",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires every utility corporation or municipality who sends an emergency notice to consumers to make available and provide such notice in English, Spanish, Haitian-Creole, Mandarin, Cantonese, Arabic, French, Urdu, Hindi and Tagalog."
+      "abstract": "Requires every utility corporation or municipality who sends an emergency notice to customers to make available and provide such notice in English, Spanish, Haitian-Creole, Mandarin, Cantonese, Arabic, French, Urdu, Russian, Yiddish, Korean, Bangla, Polish, Italian, Hindi and Tagalog."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2258"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
@@ -32,6 +36,119 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENERGY AND TELECOMMUNICATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENERGY AND TELECOMMUNICATIONS",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2258A",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.819",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
       }
     }
   ],
@@ -85,10 +202,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2258A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2258A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 44",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBS \u00a7 44",
@@ -120,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:23:57Z"
   }
 }

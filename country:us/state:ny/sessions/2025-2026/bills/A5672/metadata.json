@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A5672",
-  "title": "Relates to observing Atlantic time",
+  "title": "Relates to observing daylight savings time permanently; repealer",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to causing New York to observe Atlantic time."
+      "abstract": "Relates to New York observing daylight savings time permanently."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5672"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
       }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL OPERATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5672A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 5725",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 5725",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 5611",
       "legislative_session": "2023-2024",
@@ -77,10 +134,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A5672A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5672A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GCN \u00a7 52",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GCN/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A5672?summary=&detail=",
@@ -103,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:23:54Z"
   }
 }

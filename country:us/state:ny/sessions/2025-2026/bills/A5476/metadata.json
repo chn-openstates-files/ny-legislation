@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits the intentional injection, release or dispersion, by any means, of chemicals, chemical compounds, substances or apparatus within the borders of this state into the atmosphere with the express purpose of affecting temperature, weather or the intensity of sunlight."
+      "abstract": "Prohibits the intentional injection, release or dispersion, by any means, of chemicals, chemical compounds, substances or apparatus within the borders of this state into the atmosphere with the express purpose of affecting temperature, weather or the intensity of sunlight; provides the department will establish a reporting process for violations; provides penalties for such violations."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5476"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -44,6 +48,49 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5476A",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -84,17 +131,84 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A5476A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5476A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
     {
       "publication": "New York Laws",
-      "citation": "ENV \u00a7 19-330",
+      "citation": "ENV \u00a7 19-0330",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-2114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-2105",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 99-RR",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 19-0330",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-2114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-2105",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 99-RR",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
     }
   ],
   "sources": [
@@ -119,6 +233,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

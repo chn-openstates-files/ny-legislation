@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2162"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ELECTION LAW",
@@ -60,6 +64,52 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ELECTION LAW",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ELECTION LAW",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "TO ATTORNEY-GENERAL FOR OPINION",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "OPINION REFERRED TO JUDICIARY",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -199,6 +249,70 @@
       "primary": false,
       "person_id": "~{\"name\": \"Christopher Eachus\"}",
       "organization_id": null
+    },
+    {
+      "name": "Noah Burroughs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Noah Burroughs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Cunningham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Gonzalez-Rojas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Gonzalez-Rojas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Valdez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claire Valdez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew Hevesi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew Hevesi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Paulin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Paulin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick J. Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick J. Carroll\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -304,6 +418,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

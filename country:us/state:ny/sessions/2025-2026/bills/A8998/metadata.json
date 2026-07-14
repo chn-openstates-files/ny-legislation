@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A8998",
-  "title": "Enacts the \"dollars for diesels act\" relating to financial incentives for the retirement of certain heavy- and medium-duty vehicles",
+  "title": "Enacts the \"dollars for diesels act\" relating to financial incentives for the retirement of certain heavy- and medium-duty diesel-powered vehicles",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Enacts the \"dollars for diesels act\"; directs the commissioner of environmental conservation, in consultation with the New York state energy research and development authority, to establish and administer a program to provide financial incentives to owners of heavy- and medium-duty vehicles of a model year two thousand ten or older to retire and replace such vehicles with new heavy- or medium-duty vehicles of model year two thousand twenty-four or newer that meet or exceed applicable emission standards."
+      "abstract": "Enacts the \"dollars for diesels act\"; directs the commissioner of environmental conservation, in consultation with the New York state energy research and development authority, to establish and administer a program to provide financial incentives to owners of heavy- and medium-duty diesel-powered vehicles of a model year two thousand ten or older to retire and replace such vehicles with new heavy- or medium-duty diesel-powered vehicles of model year two thousand twenty-four or newer that meet or exceed applicable emission standards."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8998"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2025-12-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8998A",
+      "date": "2025-12-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +90,28 @@
       "primary": true,
       "person_id": "~{\"name\": \"Marianne Buttenschon\"}",
       "organization_id": null
+    },
+    {
+      "name": "Phil Steck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Steck\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 8670",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8670",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A8998",
@@ -61,10 +127,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8998A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8998A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 19-0333",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8998?summary=&detail=",
@@ -87,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:23:55Z"
   }
 }

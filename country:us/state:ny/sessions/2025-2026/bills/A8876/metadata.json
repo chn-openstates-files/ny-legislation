@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows uncommitted funds in the New York state climate investment account to be returned to ratepayers."
+      "abstract": "Allows surplus or uncommitted funds in the New York state climate investment account to be returned to ratepayers."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8876"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:38Z"
       }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8876A",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +90,108 @@
       "primary": true,
       "person_id": "~{\"name\": \"John Lemondes\"}",
       "organization_id": null
+    },
+    {
+      "name": "Philip Palmesano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Palmesano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Maher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Maher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Smullen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Smullen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe DeStefano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe DeStefano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Giglio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Giglio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen Hawley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen Hawley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Jensen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Jensen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Sempolinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Sempolinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Chludzinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Chludzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Slater",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Slater\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Angelino",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Angelino\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 8461",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8461",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A8876",
@@ -61,10 +207,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8876A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8876A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 99-QQ",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
     {
       "publication": "New York Laws",
       "citation": "STF \u00a7 99-QQ",
@@ -96,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:38Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

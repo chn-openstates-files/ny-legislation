@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7328",
-  "title": "Increases the number of commissioners of the public service commission",
+  "title": "Relates to the appointment and responsibilities of the commissioners of the public service commission",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Increases the number of commissioners of the public service commission to eight; requires the commission to have a duty to protect public interest, including ensuring access to utility services for residential and business customers; prohibits commissioners from having been employed within the last two years by an electric, gas, steam, telecommunications, or water utility that is regulated by the commission."
+      "abstract": "Relates to the appointment and responsibilities of the commissioners of the public service commission; requires the commission to have a duty to protect public interest, including ensuring access to utility services for residential and business customers; prohibits commissioners from having been employed within the last two years by an electric, gas, steam, telecommunications, or water utility that is regulated by the commission."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7328"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
@@ -115,6 +119,188 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENERGY AND TELECOMMUNICATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO RULES",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.147",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "RECALLED FROM ASSEMBLY",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "VOTE RECONSIDERED - RESTORED TO THIRD READING",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 7328B",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REPASSED SENATE",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "RETURNED TO ASSEMBLY",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,15 +313,42 @@
       "organization_id": null
     },
     {
+      "name": "Samra Brouk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Samra Brouk\"}",
+      "organization_id": null
+    },
+    {
       "name": "Robert Jackson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Robert Jackson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lea Webb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lea Webb\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 10993",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 10993",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "S7328",
@@ -162,10 +375,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7328B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7328B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBS \u00a7 4",
@@ -221,6 +461,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:23:54Z"
   }
 }

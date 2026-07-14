@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A4362",
-  "title": "Relates to liability of certain agencies for negligence in the placement of a child; extend jurisdiction of the court of claims",
+  "title": "Relates to liability of cities and counties for negligence in the placement of a child",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the duty owed by certain agencies to children in the legal custody of the agencies with respect to the placement of children; provides a statutory private right of action for compensatory damage; extends jurisdiction of the court of claims to certain claims for injuries to a child."
+      "abstract": "Relates to the duty owed by cities and counties to children in the legal custody of such cities and counties with respect to the placement of children; provides a statutory private right of action for compensatory damage."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4362"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CHILDREN AND FAMILIES",
@@ -58,6 +62,74 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
       }
+    },
+    {
+      "description": "REFERRED TO CHILDREN AND FAMILIES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CHILDREN AND FAMILIES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CHILDREN AND FAMILIES",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4362B",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4362C",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,16 +140,88 @@
       "primary": true,
       "person_id": "~{\"name\": \"Linda Rosenthal\"}",
       "organization_id": null
+    },
+    {
+      "name": "Amy Paulin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Paulin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Noah Burroughs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Noah Burroughs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catalina Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catalina Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Raga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Raga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Griffin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Griffin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Anne Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Anne Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Khaleel Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Khaleel Anderson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
     {
-      "identifier": "S 2270",
+      "identifier": "S 9778",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 2270",
+      "identifier": "S 9778",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -108,6 +252,28 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4362A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A4362B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4362B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A4362C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4362C",
           "media_type": "application/pdf"
         }
       ],
@@ -148,6 +314,30 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/CTC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 419-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CTC \u00a7 9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CTC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 419-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
     }
   ],
   "sources": [
@@ -172,6 +362,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:23:46Z"
   }
 }

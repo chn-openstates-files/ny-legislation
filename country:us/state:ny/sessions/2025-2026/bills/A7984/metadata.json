@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7984"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -33,6 +37,24 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,7 +67,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 8855",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8855",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A7984",
@@ -96,6 +129,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

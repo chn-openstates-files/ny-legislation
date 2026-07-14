@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4537"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
@@ -33,6 +37,119 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4537A",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "REFERENCE CHANGED TO WAYS AND MEANS",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.334",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.334",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY S1462A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +160,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Charles Fall\"}",
       "organization_id": null
+    },
+    {
+      "name": "Grace Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deborah Glick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deborah Glick\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 1462",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 1462",
       "legislative_session": "2025-2026",
@@ -82,10 +220,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A4537A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4537A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 1974-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4537?summary=&detail=",
@@ -108,6 +266,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

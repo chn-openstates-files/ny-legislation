@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides for the licensure of school psychology practitioners; authorizes the use of the title \"licensed school psychology practitioner\" to licensed or exempt individuals; defines practice of licensed school psychology practitioners; sets forth requirements for professional licensure (including educational attainment, experience, exam and fee); provides for issuance of limited permits under specified circumstances; identifies exempt persons."
+      "abstract": "Provides for the licensure of school psychology practitioners; authorizes the use of the title \"licensed school psychology practitioner\" to licensed or exempt individuals; defines practice of licensed school psychology practitioners; sets forth requirements for professional licensure (including educational attainment, experience, exam and fee); provides for issuance of limited permits under specified circumstances; identifies exempt persons; establishes mandatory continuing education requirements."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1745"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HIGHER EDUCATION",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HIGHER EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HIGHER EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HIGHER EDUCATION",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1745A",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
       }
     }
   ],
@@ -213,14 +260,6 @@
       "organization_id": null
     },
     {
-      "name": "Alicia Hyndman",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Alicia Hyndman\"}",
-      "organization_id": null
-    },
-    {
       "name": "Brian Cunningham",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -275,9 +314,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Christopher Eachus\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sarahana Shrestha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Berger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Berger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Steck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Steck\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 3278",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 3278",
       "legislative_session": "2025-2026",
@@ -349,10 +417,62 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A1745A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A1745A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 A153-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6503-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6507",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 7602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 413",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A1745?summary=&detail=",
@@ -375,6 +495,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:50Z"
   }
 }

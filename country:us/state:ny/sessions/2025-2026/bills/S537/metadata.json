@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from Gurdwara Guru Tegh Bahadur Sahib, Inc. for all of the 2023 general taxes and all of the 2022-2023 school taxes."
+      "abstract": "Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from Gurdwara Guru Tegh Bahadur Sahib, Inc. for all of the 2023 general taxes."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s537"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LOCAL GOVERNMENT",
@@ -103,6 +107,69 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LOCAL GOVERNMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LOCAL GOVERNMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LOCAL GOVERNMENT",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 537A",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +214,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S537A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S537A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -173,6 +251,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:23:50Z"
   }
 }

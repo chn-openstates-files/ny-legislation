@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that for taxable years beginning on and after January first, two thousand twenty-five, a resident taxpayer who serves as an active volunteer firefighter or as a volunteer ambulance worker shall be allowed a credit against the tax imposed equal to eight hundred dollars; provides for a real property tax exemption under certain circumstances to an enrolled member of an incorporated volunteer fire company, fire department or incorporated voluntary ambulance service residing in such city, village, town, school district, special district, fire district or county."
+      "abstract": "Provides that for taxable years beginning on and after January first, two thousand twenty-six, a resident taxpayer who serves as an active volunteer firefighter or as a volunteer ambulance worker shall be allowed a credit against the tax imposed equal to eight hundred dollars; provides for a real property tax exemption under certain circumstances to an enrolled member of an incorporated volunteer fire company, fire department or incorporated voluntary ambulance service residing in such city, village, town, school district, special district, fire district or county."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s6233"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BUDGET AND REVENUE",
@@ -95,6 +99,101 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO BUDGET AND REVENUE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "BUDGET AND REVENUE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO BUDGET AND REVENUE",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6233A",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1466",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A6790A",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +203,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Monica Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Ashby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamaal Bailey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamaal Bailey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April Baskin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"April Baskin\"}",
       "organization_id": null
     },
     {
@@ -123,11 +246,27 @@
       "organization_id": null
     },
     {
+      "name": "Joseph A. Griffo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph A. Griffo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Pete Harckham",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Pete Harckham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pamela Helming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pamela Helming\"}",
       "organization_id": null
     },
     {
@@ -144,6 +283,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack M. Martins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack M. Martins\"}",
       "organization_id": null
     },
     {
@@ -171,6 +318,22 @@
       "organization_id": null
     },
     {
+      "name": "Thomas F. O'Mara",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. O'Mara\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony H. Palumbo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony H. Palumbo\"}",
+      "organization_id": null
+    },
+    {
       "name": "Steve Rhoads",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -184,6 +347,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Robert Rolison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Ryan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher Ryan\"}",
       "organization_id": null
     },
     {
@@ -215,6 +386,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "A 6790",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 7286",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -235,10 +411,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S6233A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S6233A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 466-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
     {
       "publication": "New York Laws",
       "citation": "RPT \u00a7 466-A",
@@ -278,6 +481,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

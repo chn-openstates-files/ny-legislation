@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7529"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
@@ -87,6 +91,86 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:42Z"
       }
+    },
+    {
+      "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CIVIL SERVICE AND PENSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1625",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL EMPLOYEES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -96,6 +180,102 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph P. Addabbo Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph P. Addabbo Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen T. Chan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen T. Chan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Cooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Cooney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica Martinez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monica Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mario Mattera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mario Mattera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony H. Palumbo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony H. Palumbo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Rhoads",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Rhoads\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Rolison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Rolison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Skoufis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Skoufis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Sutton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Sutton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Weber\"}",
       "organization_id": null
     }
   ],
@@ -176,6 +356,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:42Z"
+    "logs_latest_update": "2026-07-14T13:23:42Z"
   }
 }

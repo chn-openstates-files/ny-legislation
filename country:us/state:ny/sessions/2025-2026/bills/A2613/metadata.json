@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides additional protections for sensitive health information and requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions."
+      "abstract": "Provides additional protections for sensitive health information; requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2613"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -32,6 +36,69 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2613A",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.400",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
       }
     }
   ],
@@ -187,6 +254,142 @@
       "primary": false,
       "person_id": "~{\"name\": \"John T. McDonald III\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rebecca Seawright",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca Seawright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harry B. Bronson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harry B. Bronson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anna Kelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Kelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grace Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MaryJane Shimsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"MaryJane Shimsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Griffin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Griffin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Otis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Otis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Cashman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Cashman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Burdick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Burdick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Didi Barrett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Didi Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Cunningham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen McMahon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen McMahon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Zaccaro Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Zaccaro Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Powers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Powers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Jacobson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan Jacobson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Stern",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Stern\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -221,10 +424,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A2613A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2613A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 25",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 26",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBH \u00a7 25",
@@ -264,6 +494,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:46Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

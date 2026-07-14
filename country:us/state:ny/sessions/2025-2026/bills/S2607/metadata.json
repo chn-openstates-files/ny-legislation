@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2607"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
@@ -45,6 +49,36 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:42Z"
       }
+    },
+    {
+      "description": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,6 +91,22 @@
       "organization_id": null
     },
     {
+      "name": "Stephen T. Chan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen T. Chan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mario Mattera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mario Mattera\"}",
+      "organization_id": null
+    },
+    {
       "name": "Robert Rolison",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -66,6 +116,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 5849",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 5849",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 1809",
       "legislative_session": "2023-2024",
@@ -152,6 +212,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:42Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

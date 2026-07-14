@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A9068",
-  "title": "Requires the state to participate in the United Nations for certain purposes where the federal government has disengaged",
+  "title": "Requires the state to participate in the United Nations for certain purposes",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires the state to participate in the United Nations human rights council's universal periodic review when the federal government has disengaged from such review."
+      "abstract": "Requires the state to participate in the United Nations human rights council's universal periodic review by submitting a report in the capacity of a subnational stakeholder."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a9068"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
+      }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL OPERATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9068A",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
       }
     }
   ],
@@ -67,6 +114,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Karines Reyes\"}",
       "organization_id": null
+    },
+    {
+      "name": "Emerita Torres",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emerita Torres\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -96,13 +151,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A9068A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9068A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
     {
       "publication": "New York Laws",
-      "citation": "EXC \u00a7 111",
+      "citation": "EXC \u00a7 294-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 294-B",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -131,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:51Z"
   }
 }

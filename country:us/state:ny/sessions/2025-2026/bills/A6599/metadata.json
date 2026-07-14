@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6599"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORRECTION",
@@ -83,6 +87,42 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:46Z"
       }
+    },
+    {
+      "description": "REFERRED TO CORRECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -140,6 +180,70 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Phara Souffrant Forrest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Weprin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Weprin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Seawright",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rebecca Seawright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Demond Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Demond Meeks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karines Reyes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karines Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Latrice Walker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Latrice Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aron Wieder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aron Wieder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Anne Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Anne Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Lavine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles Lavine\"}",
       "organization_id": null
     }
   ],
@@ -230,6 +334,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:46Z"
+    "logs_latest_update": "2026-07-14T13:23:59Z"
   }
 }

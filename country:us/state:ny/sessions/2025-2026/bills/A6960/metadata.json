@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A6960",
-  "title": "Prohibits electric corporations and gas corporations from increasing charges due to tariffs imposed by the United States or governments of countries or their political subdivisions outside the United States",
+  "title": "Requires electric corporations and gas corporations to provide, as part of every billing statement, a tariff cost estimate in a clear, conspicuous and easily understandable manner",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits electric corporations, gas corporations and utilities from passing along costs or increasing charges to ratepayers for electricity and natural gas, or any associated goods and services, as a result of increased costs incurred by such corporation due to tariffs placed by the government of the United States on the importation of goods, services or materials from countries outside the United States or due to tariffs placed by the governments of countries or their political subdivisions on the exportation of goods, services, or materials to the United States."
+      "abstract": "Requires electric corporations and gas corporations to provide, as part of every billing statement, a tariff cost estimate in a clear, conspicuous and easily understandable manner; requires such corporations to include an itemized disclosure of the primary cost components comprising the delivery portion of the bill."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6960"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENERGY",
@@ -58,6 +62,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:42Z"
       }
+    },
+    {
+      "description": "REFERRED TO ENERGY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENERGY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENERGY",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6960B",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,7 +117,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 6491",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 6491",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A6960",
@@ -97,10 +155,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A6960B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A6960B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 44",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBS \u00a7 66",
@@ -132,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:42Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

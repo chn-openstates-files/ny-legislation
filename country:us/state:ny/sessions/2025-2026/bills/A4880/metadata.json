@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes confirmatory adoptions providing for the adoption of children born as a result of assisted reproduction; allows for more than two persons to be named parents of a child; establishes presumed parentage and provides for the challenge and adjudication thereof; repeals certain provisions of the domestic relations law and the family court act relating thereto."
+      "abstract": "Establishes confirmatory adoptions providing for the adoption of children born as a result of assisted reproduction; allows for more than two persons to be named parents of a child; establishes presumed parentage and provides for the challenge and adjudication thereof; repeals certain provisions relating thereto."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4880"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO JUDICIARY",
@@ -57,6 +61,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO JUDICIARY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
       }
     }
   ],
@@ -124,16 +146,32 @@
       "primary": false,
       "person_id": "~{\"name\": \"Karines Reyes\"}",
       "organization_id": null
+    },
+    {
+      "name": "Harry B. Bronson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harry B. Bronson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Steck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Steck\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
     {
-      "identifier": "S 4555",
+      "identifier": "S 9748",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 4555",
+      "identifier": "S 9748",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     }
@@ -351,6 +389,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:23:59Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7285"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO MENTAL HEALTH",
@@ -57,6 +61,42 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
+      }
+    },
+    {
+      "description": "REFERRED TO MENTAL HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "MENTAL HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
       }
     }
   ],
@@ -174,14 +214,6 @@
       "organization_id": null
     },
     {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
-      "organization_id": null
-    },
-    {
       "name": "Steve Stern",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -219,6 +251,118 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Anna Kelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karl Brabenec",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karl Brabenec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Cashman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Cashman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kwani O'Pharrow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen McMahon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen McMahon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan Wright",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan Wright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Gray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Slater",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Slater\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarahana Shrestha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yudelka Tapia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yudelka Tapia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Gallahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Gallahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Jensen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Jensen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Cunningham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michaelle C. Solages",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michaelle C. Solages\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip Palmesano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Palmesano\"}",
       "organization_id": null
     }
   ],
@@ -310,6 +454,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

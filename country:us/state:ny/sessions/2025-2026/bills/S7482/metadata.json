@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7482",
-  "title": "Relates to designating an individual who has harassed athletes, coaches, officials or participants of a sports event as a prohibited sports bettor",
+  "title": "Designates an individual who has been convicted of certain crimes or of certain offenses involving sports contests, horse races or wagering thereon, as a prohibited sports bettor",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Designates an individual found to have harassed or shown a harmful pattern of conduct directed at amateur or professional athletes, coaches, officials, or participants of a sports event, including but not limited to certain instances of verbal, written or electronic threats, lewd or obscene statements or images, vandalism or nonconsensual physical contact, as a prohibited sports bettor."
+      "abstract": "Designates an individual found to have been convicted of certain crimes where the complainant or victim is an amateur or professional athlete, coach, official or other participant in a sports event, or a jockey, driver, trainer, owner, official or other participant in a horse race, or to have been convicted of certain offenses involving sports contests, horse races, or wagering thereon, as a prohibited sports bettor; requires the commission to notify the individual; allows for the individual to contest such designation; requires account wagering licensees to prohibit any individual designated as a prohibited sports bettor from establishing or maintaining a wagering account."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7482"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RACING, GAMING AND WAGERING",
@@ -33,6 +37,128 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
       }
+    },
+    {
+      "description": "REFERRED TO RACING, GAMING AND WAGERING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RACING, GAMING AND WAGERING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO RACING, GAMING AND WAGERING",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7482A",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO RACING, GAMING AND WAGERING",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7482B",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.551",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING (T) 7482C",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "COMMITTED TO RULES",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +172,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 7903",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 7903",
       "legislative_session": "2025-2026",
@@ -72,10 +203,75 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7482A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7482A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7482B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7482B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7482C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7482C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PML \u00a7 1367",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PML \u00a7 1367",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PML \u00a7 1367",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PML \u00a7 1012",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PML \u00a7 1367",
@@ -107,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Enacts \"Brendon's law\" to prohibit participation, including spectators within two hundred feet, of any motor vehicle speed contest, sideshow and street takeovers; authorizes seizure and forfeiture."
+      "abstract": "Enacts \"Brendon's law\" to prohibit participation, including spectators within two hundred feet, of any motor vehicle speed contest, sideshow and street takeovers; authorizes seizure and forfeiture; adds damaging an authorized emergency vehicle as constituting the crime of criminal mischief in the third degree."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6986"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO TRANSPORTATION",
@@ -45,6 +49,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
       }
+    },
+    {
+      "description": "REFERRED TO TRANSPORTATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "TRANSPORTATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6986A",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,16 +110,24 @@
       "primary": false,
       "person_id": "~{\"name\": \"Joe Angelino\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jake Ryan Blumencranz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Ryan Blumencranz\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
     {
-      "identifier": "S 5770",
+      "identifier": "S 10059",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 5770",
+      "identifier": "S 10059",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     }
@@ -92,10 +147,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A6986A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A6986A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 1212-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 145.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 1182",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6986?summary=&detail=",
@@ -118,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

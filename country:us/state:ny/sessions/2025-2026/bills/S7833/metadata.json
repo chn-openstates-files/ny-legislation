@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7833",
-  "title": "Relates to enhanced reimbursement rates for pediatric practices that are partnered with the HealthySteps program",
+  "title": "Relates to add-on payment for pediatric practices that implement the HealthySteps model",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Directs the commissioner of health to establish or approve an enhanced rate methodology for pediatric practices that are partnered with the HealthySteps program."
+      "abstract": "Directs the commissioner of health to establish or approve an add-on rate for pediatric practices implementing the HealthySteps model."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7833"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -33,6 +37,74 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7833A",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HEALTH",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7833B",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,6 +117,22 @@
       "organization_id": null
     },
     {
+      "name": "Samra Brouk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Samra Brouk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Luis R. Sep\u00falveda",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -54,6 +142,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 8048",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 8048",
       "legislative_session": "2025-2026",
@@ -80,10 +173,48 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7833A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7833A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7833B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7833B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 2807",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 2807",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBH \u00a7 2807",
@@ -115,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

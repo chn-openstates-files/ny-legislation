@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8063"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CHILDREN AND FAMILIES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CHILDREN AND FAMILIES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CHILDREN AND FAMILIES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CHILDREN AND FAMILIES",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8063A",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
       }
     }
   ],
@@ -127,12 +174,12 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 6919",
+      "identifier": "S 9899",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 6919",
+      "identifier": "S 9899",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -167,10 +214,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8063A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8063A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 413",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "SOS \u00a7 413",
@@ -202,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:45Z"
   }
 }

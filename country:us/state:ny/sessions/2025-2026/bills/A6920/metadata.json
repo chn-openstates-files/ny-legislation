@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6920"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
@@ -33,6 +37,24 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
       }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL OPERATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,14 +64,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Steven Raga\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zohran Mamdani",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zohran Mamdani\"}",
       "organization_id": null
     },
     {
@@ -123,6 +137,126 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jo Anne Simon\"}",
       "organization_id": null
+    },
+    {
+      "name": "Emily Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emerita Torres",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emerita Torres\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Manny De Los Santos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Manny De Los Santos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeffrey Dinowitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeffrey Dinowitz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Weprin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Weprin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phara Souffrant Forrest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phara Souffrant Forrest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catalina Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catalina Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarahana Shrestha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Valdez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claire Valdez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Khaleel Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Khaleel Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan Rivera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grace Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Lee\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -178,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:23:42Z"
   }
 }

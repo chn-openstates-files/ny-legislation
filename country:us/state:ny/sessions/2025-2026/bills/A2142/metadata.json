@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A2142",
-  "title": "Allows the growth, cultivation, and adult use of psilocybin for the treatment of certain health conditions",
+  "title": "Enacts the medical psilocybin act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows the growth, cultivation, and regulated adult use of psilocybin for the treatment of certain health conditions; provides for the certification of support service providers and the licensure of cultivators."
+      "abstract": "Authorizes the use of psilocybin to treat qualified medical conditions; prohibits criminal diversion of medical psilocybin."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2142"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2142A",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
       }
     }
   ],
@@ -83,6 +130,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Chris Burdick\"}",
       "organization_id": null
+    },
+    {
+      "name": "Albert A. Stirpe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Albert A. Stirpe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jo Anne Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Anne Simon\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -112,10 +183,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A2142A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2142A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 A33T5-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 A174",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 A33T5-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 A174",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A2142?summary=&detail=",
@@ -138,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

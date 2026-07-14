@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a387"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -183,6 +187,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
+      }
+    },
+    {
+      "description": "SIGNED CHAP.614",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:52Z"
       }
     }
   ],
@@ -496,6 +512,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:23:52Z"
   }
 }

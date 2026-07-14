@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s5461"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO INSURANCE",
@@ -75,6 +79,103 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:41Z"
       }
+    },
+    {
+      "description": "REFERRED TO INSURANCE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "INSURANCE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO INSURANCE",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5461A",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.848",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "COMMITTED TO RULES",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +185,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Leroy Comrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zellnor Myrie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zellnor Myrie\"}",
       "organization_id": null
     }
   ],
@@ -124,10 +233,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5461A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5461A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ISC \u00a7 2346",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ISC/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ISC \u00a7 2346",
@@ -159,6 +287,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:41Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

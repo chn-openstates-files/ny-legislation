@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S8517",
-  "title": "Requires the state to participate in the United Nations for certain purposes where the federal government has disengaged",
+  "title": "Requires the state to participate in the United Nations for certain purposes",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires the state to participate in the United Nations human rights council's universal periodic review when the federal government has disengaged from such review."
+      "abstract": "Requires the state to participate in the United Nations human rights council's universal periodic review by submitting a report in the capacity of a subnational stakeholder."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8517"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
       }
+    },
+    {
+      "description": "REFERRED TO FINANCE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "FINANCE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8517A",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +93,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 9068",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 9068",
       "legislative_session": "2025-2026",
@@ -72,6 +124,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8517A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8517A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -79,6 +142,14 @@
     {
       "publication": "New York Laws",
       "citation": "EXC \u00a7 111",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 294-B",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -107,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to authorizing a reduction of taxes pursuant to shelter rent; provides that such taxes shall not be assessed on projects located in New York City."
+      "abstract": "Relates to authorizing a reduction of taxes pursuant to shelter rent; provides that upon consent of the local legislative body in a city with a population of one million or more such taxes may be reduced to five per centum or less, including a full reduction of the annual shelter rent or carrying charges of a project."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s5662"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
@@ -57,6 +61,86 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
       }
+    },
+    {
+      "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5662A",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO FINANCE",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5662B",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +171,16 @@
       "identifier": "A 6654",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "A 6654",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 6654",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -104,6 +198,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5662A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5662A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S5662B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5662B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -111,6 +227,46 @@
     {
       "publication": "New York Laws",
       "citation": "PVH \u00a7 33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PVH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PVH \u00a7 93",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -139,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

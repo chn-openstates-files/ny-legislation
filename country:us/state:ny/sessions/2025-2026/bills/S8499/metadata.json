@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires the department of environmental conservation and the department of health, owners or operators of public water systems, and owners or operators of buildings to take actions to prevent and control waterborne pathogens including legionella from source-to-tap; creates a public awareness and education campaign."
+      "abstract": "Requires the department of environmental conservation and the department of health, owners or operators of public water systems, and owners or operators of buildings to take actions to prevent and control waterborne pathogens including legionella from source-to-tap."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8499"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
       }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HEALTH",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8499A",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +89,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cordell Cleare\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jabari Brisport",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jabari Brisport\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patricia Fahy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia Fahy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathalia Fernandez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathalia Fernandez\"}",
       "organization_id": null
     },
     {
@@ -69,6 +140,14 @@
       "organization_id": null
     },
     {
+      "name": "Kevin S. Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin S. Parker\"}",
+      "organization_id": null
+    },
+    {
       "name": "Roxanne J. Persaud",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -90,11 +169,6 @@
       "identifier": "A 9095",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
-    },
-    {
-      "identifier": "A 9095",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -107,6 +181,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8499",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S8499A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8499A",
           "media_type": "application/pdf"
         }
       ],
@@ -127,6 +212,22 @@
     {
       "publication": "New York Laws",
       "citation": "STF \u00a7 99-TT",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBH \u00a7 A21T9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBH/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 99-UU",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -155,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:23:48Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires a mitigation ratio of one acre for every acre of occupied grassland bird breeding habitat and one acre of mitigation for every acre of grassland bird wintering habitat included in a major electric transmission facility siting permit."
+      "abstract": "Requires a mitigation ratio of one acre for every acre of occupied grassland bird breeding habitat and three acres of mitigation for every acre of grassland bird wintering habitat included in a major electric transmission facility siting permit."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a3959"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENERGY",
@@ -57,6 +61,49 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:42Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENERGY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENERGY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ENERGY",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 3959B",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -151,10 +198,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A3959B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3959B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 139",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBS \u00a7 139",
@@ -186,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:42Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

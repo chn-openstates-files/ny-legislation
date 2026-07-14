@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4642"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:38Z"
+      }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL OPERATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO GOVERNMENTAL OPERATIONS",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4642A",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
       }
     }
   ],
@@ -503,12 +550,12 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 2694",
+      "identifier": "S 10125",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 2694",
+      "identifier": "S 10125",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -558,10 +605,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A4642A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4642A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 201-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A4642?summary=&detail=",
@@ -584,6 +651,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:38Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

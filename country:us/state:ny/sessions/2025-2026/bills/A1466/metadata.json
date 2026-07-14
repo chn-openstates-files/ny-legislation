@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1466"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
       }
     }
   ],
@@ -229,14 +251,6 @@
       "organization_id": null
     },
     {
-      "name": "Harvey Epstein",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Harvey Epstein\"}",
-      "organization_id": null
-    },
-    {
       "name": "Charles Fall",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -306,14 +320,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Donna Lupardo\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zohran Mamdani",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zohran Mamdani\"}",
       "organization_id": null
     },
     {
@@ -549,14 +555,6 @@
       "organization_id": null
     },
     {
-      "name": "Larinda Hooks",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Larinda Hooks\"}",
-      "organization_id": null
-    },
-    {
       "name": "Philip Ramos",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -602,6 +600,46 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jordan Wright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larinda Hooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larinda Hooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Powers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Powers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Noah Burroughs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Noah Burroughs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick J. Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick J. Carroll\"}",
       "organization_id": null
     }
   ],
@@ -683,6 +721,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

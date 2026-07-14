@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2590"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO WAYS AND MEANS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO WAYS AND MEANS",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2590A",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -285,14 +332,6 @@
       "organization_id": null
     },
     {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
-      "organization_id": null
-    },
-    {
       "name": "Karines Reyes",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -451,6 +490,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Claire Valdez\"}",
       "organization_id": null
+    },
+    {
+      "name": "Robert C. Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert C. Carroll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Bores",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Bores\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karl Brabenec",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karl Brabenec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Demond Meeks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Demond Meeks\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -485,6 +556,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A2590A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2590A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -511,6 +593,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

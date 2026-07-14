@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a3459"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BANKS",
@@ -76,6 +80,80 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 3459B",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO RULES 3459C",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -105,6 +183,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 3789",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3789",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 3789",
       "legislative_session": "2025-2026",
@@ -152,10 +240,48 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A3459B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3459B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A3459C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A3459C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "FIS \u00a7 408",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FIS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FIS \u00a7 408",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FIS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "FIS \u00a7 408",
@@ -187,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

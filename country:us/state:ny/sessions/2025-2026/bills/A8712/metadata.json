@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Prohibits utility service terminations in multiple dwellings; authorizes utility companies to seek a lien against such multiple dwelling for the amount of unpaid utility bills."
+      "abstract": "Prohibits utility service terminations in multiple dwellings; authorizes utility companies or municipalities to commence an action against the owner of the premises affected to seek the appointment of a receiver of rents or payments for use and occupancy or common charges."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8712"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
@@ -33,6 +37,117 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8712A",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8712B",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO CODES",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8712C",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +158,27 @@
       "primary": true,
       "person_id": "~{\"name\": \"Linda Rosenthal\"}",
       "organization_id": null
+    },
+    {
+      "name": "Steven Otis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Otis\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 8118",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 8118",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 8118",
       "legislative_session": "2025-2026",
@@ -72,10 +205,92 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8712A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8712A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8712B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8712B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8712C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8712C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 116",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPP \u00a7 235-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 116",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPP \u00a7 235-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8712?summary=&detail=",
@@ -98,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

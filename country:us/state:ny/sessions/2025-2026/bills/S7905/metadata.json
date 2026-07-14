@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7905"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO TRANSPORTATION",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "REFERRED TO TRANSPORTATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "TRANSPORTATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7905A",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,11 +92,35 @@
       "organization_id": null
     },
     {
+      "name": "Patricia Fahy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia Fahy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathalia Fernandez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathalia Fernandez\"}",
+      "organization_id": null
+    },
+    {
       "name": "Robert Jackson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Krueger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Krueger\"}",
       "organization_id": null
     },
     {
@@ -71,6 +142,11 @@
       "identifier": "A 8860",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "A 8860",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -83,6 +159,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7905",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7905A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7905A",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +250,62 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 2105-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 2855",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 2985",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 2985-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 402-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 510",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
     }
   ],
   "sources": [
@@ -187,6 +330,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:51Z"
   }
 }

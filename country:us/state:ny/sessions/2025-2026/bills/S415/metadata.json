@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s415"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -58,6 +62,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:46Z"
       }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LABOR",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 415B",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,14 +138,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Cordell Cleare\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Leroy Comrie",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Leroy Comrie\"}",
       "organization_id": null
     },
     {
@@ -190,6 +229,14 @@
       "organization_id": null
     },
     {
+      "name": "Julia Salazar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Salazar\"}",
+      "organization_id": null
+    },
+    {
       "name": "James Sanders Jr.",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -215,6 +262,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 1200",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 1200",
       "legislative_session": "2025-2026",
@@ -267,6 +319,17 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/S415A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S415B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S415B",
           "media_type": "application/pdf"
         }
       ],
@@ -371,6 +434,70 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 50",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 196-D",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 651",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 652",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 653",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 1511",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 210-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
     }
   ],
   "sources": [
@@ -395,6 +522,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:46Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

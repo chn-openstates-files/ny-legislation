@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1461"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -95,6 +99,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:38Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.56",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
       }
     }
   ],
@@ -338,6 +352,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Steven Raga\"}",
       "organization_id": null
+    },
+    {
+      "name": "Larinda Hooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larinda Hooks\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -434,6 +456,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:38Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

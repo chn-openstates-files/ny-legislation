@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5906"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -149,6 +153,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.148",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 5906C",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -198,14 +224,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David McDonough\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
       "organization_id": null
     },
     {
@@ -319,6 +337,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Angelo Santabarbara\"}",
       "organization_id": null
+    },
+    {
+      "name": "Anna Kelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Kelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larinda Hooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larinda Hooks\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -370,10 +404,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A5906C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5906C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 194-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
     {
       "publication": "New York Laws",
       "citation": "LAB \u00a7 194-B",
@@ -413,6 +466,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:50Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8579"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
@@ -32,6 +36,119 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
+      }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL EMPLOYEES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8579A",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "REFERENCE CHANGED TO WAYS AND MEANS",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.541",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.541",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY S8167A",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
       }
     }
   ],
@@ -77,6 +194,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8579A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8579A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -103,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:23:59Z"
   }
 }

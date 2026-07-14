@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2468"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
@@ -210,6 +214,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
+      }
+    },
+    {
+      "description": "VETOED MEMO.60",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "TABLED",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
       }
     }
   ],
@@ -584,6 +612,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

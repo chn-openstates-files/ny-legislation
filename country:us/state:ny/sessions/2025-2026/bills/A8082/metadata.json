@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8082"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "GOVERNMENTAL EMPLOYEES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO GOVERNMENTAL EMPLOYEES",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8082A",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
       }
     }
   ],
@@ -122,14 +169,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"William Conrad\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Billy Jones",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Billy Jones\"}",
       "organization_id": null
     },
     {
@@ -387,14 +426,97 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tommy Schiavoni\"}",
       "organization_id": null
+    },
+    {
+      "name": "Philip Palmesano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Palmesano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Cashman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Cashman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Novakhov",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Novakhov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Giglio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Giglio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Slater",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Slater\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Tague",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Tague\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrea Bailey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrea Bailey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Chludzinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Chludzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Lavine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles Lavine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick J. Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick J. Carroll\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 7021",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "S 7021",
       "legislative_session": "2025-2026",
@@ -421,10 +543,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8082A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8082A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 1050",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8082?summary=&detail=",
@@ -447,6 +589,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:23:42Z"
   }
 }

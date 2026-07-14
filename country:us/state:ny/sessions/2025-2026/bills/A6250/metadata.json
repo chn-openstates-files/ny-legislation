@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6250"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO JUDICIARY",
@@ -50,6 +54,72 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
+      }
+    },
+    {
+      "description": "REFERRED TO JUDICIARY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "RULES REPORT CAL.175",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING RULES CAL.175",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
       }
     }
   ],
@@ -177,12 +247,12 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 6739",
+      "identifier": "S 9789",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 6739",
+      "identifier": "S 9789",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -233,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

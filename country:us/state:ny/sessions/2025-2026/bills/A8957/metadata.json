@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A8957",
-  "title": "Requires a special election to fill a vacant supervisor position in towns with a population of two hundred fifty thousand or more",
+  "title": "Requires a special election to fill a vacant supervisor position in towns with a population of six hundred thousand or more",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that where a supervisor in a town with a population of two hundred fifty thousand or more vacates their position before the end of their term, a special election shall occur in order to fill such vacant supervisor position."
+      "abstract": "Provides that where a supervisor in a town with a population of six hundred thousand or more vacates their position before the end of their term, a special election shall occur in order to fill such vacant supervisor position."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8957"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LOCAL GOVERNMENTS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LOCAL GOVERNMENTS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LOCAL GOVERNMENTS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO LOCAL GOVERNMENTS",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8957A",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
       }
     }
   ],
@@ -69,10 +116,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8957A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8957A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "TWN \u00a7 89",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TWN/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8957?summary=&detail=",
@@ -95,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

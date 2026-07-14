@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s6774"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
       }
     }
   ],
@@ -156,6 +178,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

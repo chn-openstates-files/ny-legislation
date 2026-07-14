@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7552",
-  "title": "Relates to establishing extended producer responsibility for gas cylinders",
+  "title": "Establishes extended producer responsibility for gas cylinders",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to establishing extended producer responsibility for gas cylinders; provides that no later than June 30, 2026 a producer shall submit a plan for the establishment of a collection program for gas cylinders; establishes the gas cylinder extended producer responsibility fund."
+      "abstract": "Establishes extended producer responsibility for gas cylinders; provides that no later than December 31, 2029 a producer shall submit a plan for the establishment of a collection program for gas cylinders."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7552"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -32,6 +36,74 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7552A",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7552B",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
       }
     }
   ],
@@ -55,6 +127,16 @@
       "identifier": "A 8195",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "A 8195",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 8195",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -67,6 +149,28 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7552",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7552A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7552A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S7552B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7552B",
           "media_type": "application/pdf"
         }
       ],
@@ -99,6 +203,46 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 A27T34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 97-UUUU",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-1701",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 A27T34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-1701",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
     }
   ],
   "sources": [
@@ -123,6 +267,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S2217",
-  "title": "Requires that notice be given to the community boards when there is a change in service furnished upon the rapid transit facilities or the omnibus line facilities of the New York city transit authority",
+  "title": "Relates to notice to be given when there is a change in service furnished upon the rapid transit facilities or the omnibus line facilities of the New York city transit authority",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires that notice be given to the community boards when there is a change in service furnished upon the rapid transit facilities or the omnibus line facilities of the New York city transit authority."
+      "abstract": "Requires that notice be given to the borough president or presidents, the council member or members, the senator or senators, the member or members of assembly and the district managers of the affected community board or boards when there is a change in service furnished upon the rapid transit facilities or the omnibus line facilities of the New York city transit authority."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2217"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO TRANSPORTATION",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
       }
+    },
+    {
+      "description": "REFERRED TO TRANSPORTATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "TRANSPORTATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2217A",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +97,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Andrew Gounardes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Scarcella-Spanton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Scarcella-Spanton\"}",
       "organization_id": null
     }
   ],
@@ -120,10 +175,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2217A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2217A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 1205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBA \u00a7 1205",
@@ -155,6 +229,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

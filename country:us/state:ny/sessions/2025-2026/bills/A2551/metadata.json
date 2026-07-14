@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2551"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO JUDICIARY",
@@ -32,6 +36,42 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO JUDICIARY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO RULES",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RULES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
       }
     }
   ],
@@ -74,14 +114,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Karen McMahon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
       "organization_id": null
     },
     {
@@ -150,16 +182,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 7008",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
-      "identifier": "S 7008",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 4363",
       "legislative_session": "2023-2024",
@@ -241,6 +263,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:23:42Z"
   }
 }

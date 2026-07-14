@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Excludes the amount of state and local taxes and fees from the amount on which an interchange fee is charged for that electronic payment transaction by a credit or debit card network."
+      "abstract": "Excludes the amount of state and local taxes and fees from the amount on which an interchange fee is charged for that electronic payment transaction by a credit or debit card network; prohibits a payment card network from altering or manipulating the computation and imposition of interchange fees."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4017"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CONSUMER AFFAIRS AND PROTECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CONSUMER AFFAIRS AND PROTECTION",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4017A",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:54Z"
       }
     }
   ],
@@ -154,14 +201,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"William Magnarelli\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
       "organization_id": null
     },
     {
@@ -387,6 +426,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Karen McMahon\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott H. Bendett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott H. Bendett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Giglio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Giglio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Gray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Gray\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -416,10 +479,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A4017A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A4017A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 A42-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "GBS \u00a7 A42-A",
@@ -451,6 +533,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:23:54Z"
   }
 }

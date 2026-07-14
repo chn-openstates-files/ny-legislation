@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a775"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO REAL PROPERTY TAXATION",
@@ -58,6 +62,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
       }
+    },
+    {
+      "description": "REFERRED TO REAL PROPERTY TAXATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "REAL PROPERTY TAXATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO REAL PROPERTY TAXATION",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 775B",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +114,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Linda Rosenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Simone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Simone\"}",
       "organization_id": null
     }
   ],
@@ -97,6 +152,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A775B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A775B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -112,6 +178,14 @@
     {
       "publication": "New York Laws",
       "citation": "RPT \u00a7 471",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 473",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -140,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

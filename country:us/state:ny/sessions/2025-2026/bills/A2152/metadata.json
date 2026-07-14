@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes a full year youth and young adult employment immersion program under the office of temporary and disability assistance for persons aged sixteen to twenty-four who have an income below two hundred sixty-five percent of the federal poverty line."
+      "abstract": "Establishes a full year youth employment immersion pilot program for eligible youths and young adults between the ages of 16 and 24; directs the office of temporary and disability assistance to establish a youth or young adult employment immersion pilot program in 3 local social services districts, with one being located in the city of New York."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2152"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO SOCIAL SERVICES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
+      }
+    },
+    {
+      "description": "REFERRED TO SOCIAL SERVICES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "SOCIAL SERVICES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO SOCIAL SERVICES",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2152A",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:42Z"
       }
     }
   ],
@@ -72,10 +119,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A2152A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2152A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 131-Y",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 131-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 131-Y",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 131-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A2152?summary=&detail=",
@@ -98,6 +189,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:23:42Z"
   }
 }

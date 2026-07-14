@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S7961",
-  "title": "Relates to designating state and city university campuses as early voting sites and polling sites",
+  "title": "Relates to designating state university campuses as early voting sites and polling sites",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Designates campuses which are operated by the state university of New York with at least sixteen thousand enrolled students as early voting sites and polling sites."
+      "abstract": "Designates campuses which are operated by the state university of New York with at least sixteen thousand enrolled students and an on campus dormitory as early voting sites and polling sites; provides that such designation requirements shall not apply where an early voting site or polling site is already designated within one mile of the geographic boundaries of such campus."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7961"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ELECTIONS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ELECTIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ELECTIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO ELECTIONS",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7961A",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
       }
     }
   ],
@@ -87,10 +134,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7961A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7961A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ELN \u00a7 8-606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ELN \u00a7 4-104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELN/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ELN \u00a7 8-606",
@@ -130,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

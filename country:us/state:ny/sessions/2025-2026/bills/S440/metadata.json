@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s440"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ELECTIONS",
@@ -32,6 +36,61 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ELECTIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ELECTIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 440A",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
       }
     }
   ],
@@ -85,11 +144,27 @@
       "organization_id": null
     },
     {
+      "name": "Kristen Gonzalez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen Gonzalez\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andrew Gounardes",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Andrew Gounardes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Harckham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Harckham\"}",
       "organization_id": null
     },
     {
@@ -133,6 +208,22 @@
       "organization_id": null
     },
     {
+      "name": "Jessica Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gustavo Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gustavo Rivera\"}",
+      "organization_id": null
+    },
+    {
       "name": "Julia Salazar",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -146,6 +237,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Luis R. Sep\\u00falveda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 M. Serrano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Sutton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Sutton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Zellner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Zellner\"}",
       "organization_id": null
     }
   ],
@@ -176,6 +291,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/S440",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S440A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S440A",
           "media_type": "application/pdf"
         }
       ],
@@ -272,6 +398,46 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/ELN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ELN \u00a7 8-109",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ELN \u00a7 8-415",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 510",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 75",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ELN \u00a7 17-208",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELN/"
     }
   ],
   "sources": [
@@ -296,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

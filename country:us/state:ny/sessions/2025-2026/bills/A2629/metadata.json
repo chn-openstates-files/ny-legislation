@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires the reporting of convictions and sentences of certain medical professionals to the office of professional medical conduct within twenty-four hours; requires the department of health to disseminate a criminal conviction and sentence of a physician within forty-eight hours of receipt."
+      "abstract": "Requires the reporting of sentences of certain medical professionals to the office of professional medical conduct within twenty-four hours; requires the department of health to disseminate a criminal conviction and sentence of a physician within forty-eight hours of receipt."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a2629"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -33,6 +37,69 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:35Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2629A",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.352",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +113,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 10286",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 10286",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 1596",
       "legislative_session": "2023-2024",
@@ -67,6 +144,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2629",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A2629A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A2629A",
           "media_type": "application/pdf"
         }
       ],
@@ -115,6 +203,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:35Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

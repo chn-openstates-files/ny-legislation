@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a129"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -101,6 +105,56 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
       }
+    },
+    {
+      "description": "REFERRED TO EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.346",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING 129C",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -185,14 +239,6 @@
       "organization_id": null
     },
     {
-      "name": "Larinda Hooks",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Larinda Hooks\"}",
-      "organization_id": null
-    },
-    {
       "name": "Jeff Gallahan",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -238,6 +284,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Steven Otis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larinda Hooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larinda Hooks\"}",
       "organization_id": null
     }
   ],
@@ -300,10 +354,125 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A129C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A129C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 803",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CVS \u00a7 58",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CVS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/ (generally)"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 532-D",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PAR \u00a7 3.23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PAR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 335",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 335-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 336",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 336-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 97-HHH",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 97-JJJJ",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
     {
       "publication": "New York Laws",
       "citation": "COR \u00a7 2",
@@ -535,6 +704,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:24:02Z"
   }
 }

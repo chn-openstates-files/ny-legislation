@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s5071"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -32,6 +36,46 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "NOTICE OF COMMITTEE CONSIDERATION - REQUESTED",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO HIGHER EDUCATION",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
       }
     }
   ],
@@ -62,6 +106,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 9359",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 9359",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 4227",
       "legislative_session": "2023-2024",
@@ -128,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:23:51Z"
   }
 }

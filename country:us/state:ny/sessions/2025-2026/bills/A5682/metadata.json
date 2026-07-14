@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the determination of the status of an interim multiple dwelling unit as a protected occupant's primary residence by the loft board or a court of competent jurisdiction, or by registration of with the loft board; provides factors for consideration for such findings; restores certain landlord-tenant relationships severed prior to the effective date."
+      "abstract": "Relates to the determination of the status of an interim multiple dwelling unit as a protected occupant's primary residence by the loft board or a court of competent jurisdiction, or by registration with the loft board; provides factors for consideration for such findings; restores certain landlord-tenant relationships severed prior to the effective date."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5682"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING",
@@ -69,6 +73,44 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.316",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,9 +137,27 @@
       "primary": false,
       "person_id": "~{\"name\": \"Linda Rosenthal\"}",
       "organization_id": null
+    },
+    {
+      "name": "Maritza Davila",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maritza Davila\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 9353",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9353",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 9783",
       "legislative_session": "2023-2024",
@@ -154,6 +214,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:23:45Z"
   }
 }

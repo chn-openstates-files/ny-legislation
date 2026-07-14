@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1527"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BUDGET AND REVENUE",
@@ -44,6 +48,61 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO BUDGET AND REVENUE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "BUDGET AND REVENUE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1527A",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
       }
     }
   ],
@@ -249,14 +308,6 @@
       "organization_id": null
     },
     {
-      "name": "James Skoufis",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"James Skoufis\"}",
-      "organization_id": null
-    },
-    {
       "name": "James Tedisco",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -274,6 +325,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 313",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 313",
       "legislative_session": "2025-2026",
@@ -315,10 +371,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S1527A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S1527A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 1115",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 1210",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "LAB \u00a7 224-D",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBS \u00a7 66-R",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "TAX \u00a7 1115",
@@ -358,6 +457,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

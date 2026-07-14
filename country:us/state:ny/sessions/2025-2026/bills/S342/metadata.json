@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s342"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
@@ -45,6 +49,36 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:41Z"
       }
+    },
+    {
+      "description": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CRIME VICTIMS, CRIME AND CORRECTION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO CODES",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +104,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"April Baskin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erik Bottcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erik Bottcher\"}",
       "organization_id": null
     },
     {
@@ -158,14 +200,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Michelle Hinchey\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brad Hoylman-Sigal",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
       "organization_id": null
     },
     {
@@ -294,6 +328,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lea Webb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Zellner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Zellner\"}",
       "organization_id": null
     }
   ],
@@ -425,6 +467,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:41Z"
+    "logs_latest_update": "2026-07-14T13:23:55Z"
   }
 }

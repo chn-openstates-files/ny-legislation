@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Establishes protections for the rights of pregnant students, parenting students, and students with pregnancy-related conditions in schools; requires schools to establish liaison officers for such students and to disseminate information relating to resources available to such students."
+      "abstract": "Establishes protections for the rights of pregnant students, parenting students, and students with pregnancy-related conditions in schools; requires schools to establish liaison officers for such students and to disseminate information relating to resources available to such students; directs that rules be established to administer such rights and to establish minimum periods of time for a leave of absence at the student's option."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s5444"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -70,6 +74,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
       }
+    },
+    {
+      "description": "REFERRED TO HIGHER EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HIGHER EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HIGHER EDUCATION",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5444B",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,10 +167,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5444B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5444B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 T7A129-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 355",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6206",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 T7A129-C",
@@ -159,6 +249,14 @@
     {
       "publication": "New York Laws",
       "citation": "EDN \u00a7 355",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6206",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -195,6 +293,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:23:48Z"
   }
 }

@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Restricts the carrying back of net operating losses to one year, and carrying forward to five years."
+      "abstract": "Restricts the carrying forward of net operating losses to five years."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7877"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO BUDGET AND REVENUE",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
+      }
+    },
+    {
+      "description": "REFERRED TO BUDGET AND REVENUE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "BUDGET AND REVENUE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO BUDGET AND REVENUE",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7877A",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:51Z"
       }
     }
   ],
@@ -61,10 +108,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S7877A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S7877A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "TAX \u00a7 210",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/TAX/"
+    },
     {
       "publication": "New York Laws",
       "citation": "TAX \u00a7 210",
@@ -96,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:51Z"
   }
 }

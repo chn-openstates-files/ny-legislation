@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Makes it illegal for certain persons to possess or sell a pistol converter or a converted pistol."
+      "abstract": "Makes it illegal for certain persons to possess or sell a pistol converter or a converted pistol; directs the superintendent of the state police to publish a list of pistols that the superintendent has determined to be convertible pistols."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s399"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -87,6 +91,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 399B",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,11 +154,35 @@
       "organization_id": null
     },
     {
+      "name": "Jamaal Bailey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamaal Bailey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erik Bottcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erik Bottcher\"}",
+      "organization_id": null
+    },
+    {
       "name": "Samra Brouk",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Samra Brouk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Siela Bynoe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Siela Bynoe\"}",
       "organization_id": null
     },
     {
@@ -131,6 +202,14 @@
       "organization_id": null
     },
     {
+      "name": "Jeremy Cooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Cooney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Patricia Fahy",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -147,6 +226,14 @@
       "organization_id": null
     },
     {
+      "name": "Kristen Gonzalez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen Gonzalez\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andrew Gounardes",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -160,14 +247,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Pete Harckham\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brad Hoylman-Sigal",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
       "organization_id": null
     },
     {
@@ -195,6 +274,14 @@
       "organization_id": null
     },
     {
+      "name": "Jack M. Martins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack M. Martins\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rachel May",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -211,6 +298,30 @@
       "organization_id": null
     },
     {
+      "name": "Roxanne J. Persaud",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roxanne J. Persaud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gustavo Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gustavo Rivera\"}",
+      "organization_id": null
+    },
+    {
       "name": "Julia Salazar",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -219,11 +330,43 @@
       "organization_id": null
     },
     {
+      "name": "James Sanders Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Sanders Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 M. Serrano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
+      "organization_id": null
+    },
+    {
       "name": "Toby Ann Stavisky",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Toby Ann Stavisky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lea Webb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lea Webb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Zellner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Zellner\"}",
       "organization_id": null
     }
   ],
@@ -270,6 +413,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S399B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S399B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -285,6 +439,30 @@
     {
       "publication": "New York Laws",
       "citation": "PEN \u00a7 265.02",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 265.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 265.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 265.00",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -353,6 +531,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:48Z"
   }
 }

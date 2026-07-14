@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A6904",
-  "title": "Adds Down syndrome to the definition of developmental disability",
+  "title": "Adds Down syndrome to the definition of developmental disability and expands such definition to include certain individuals below the age of ten",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Adds Down syndrome to the definition of developmental disability for the purpose of making Down syndrome an automatic qualifier for Medicaid."
+      "abstract": "Adds Down syndrome to the definition of developmental disability for the purpose of making Down syndrome an automatic qualifier for Medicaid; expands the definition of developmental disability to include certain individuals below the age of ten who cannot demonstrate that their disability constitutes a substantial handicap to their ability to function in a normal society, but that have a high probability of meeting such criteria later in life; expands the definition of developmental disability to include certain individuals below the age of four."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6904"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO MENTAL HEALTH",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO MENTAL HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "MENTAL HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO MENTAL HEALTH",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6904A",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -107,9 +154,68 @@
       "primary": false,
       "person_id": "~{\"name\": \"Judy Griffin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jo Anne Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jo Anne Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelo Santabarbara",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelo Santabarbara\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Berger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Berger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chantel Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chantel Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kalman Yeger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kalman Yeger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doug Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doug Smith\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 9448",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9448",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A6904",
@@ -125,10 +231,38 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A6904A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A6904A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "MHY \u00a7 1.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/MHY/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "MHY \u00a7 1.03",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/MHY/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A6904?summary=&detail=",
@@ -151,6 +285,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S655",
-  "title": "Enacts the corporate accountability for tax expenditures act",
+  "title": "Enacts the accountability for development assistance act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Enacts the corporate accountability for tax expenditures act; standardizes applications for state development assistance for empire zone assistance and industrial development agency assistance; requires submission of certain development assistance agreements to the department of taxation and finance; requires recipients of certain development assistance to submit progress reports which include certain information and disclosures; makes certain recapture provisions; defines relevant terms."
+      "abstract": "Enacts the accountability for development assistance act; standardizes applications for state development assistance; requires submission of certain development assistance agreements to the department of taxation and finance; requires recipients of certain development assistance to submit progress reports which include certain information and disclosures."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s655"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 655A",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -70,11 +117,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "A 7933",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 7933",
       "legislative_session": "2025-2026",
@@ -141,6 +183,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S655A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S655A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -160,6 +213,14 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 170-K",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
     }
   ],
   "sources": [
@@ -184,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

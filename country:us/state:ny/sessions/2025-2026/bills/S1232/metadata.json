@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S1232",
-  "title": "Authorizes Christopher Walser to take the competitive civil service examination for the position of police officer and be placed on the eligible list for employment as a full-time police officer",
+  "title": "Authorizes Christopher Walser and Matthew Patire to each take the competitive civil service examination for the position of police officer",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Authorizes Christopher Walser to take the competitive civil service examination for the position of police officer and be placed on the eligible list for employment as a full-time police officer for the village of Skaneateles police department."
+      "abstract": "Authorizes Christopher Walser and Matthew Patire to each take the competitive civil service examination for the position of police officer and to each be placed on the eligible list for employment as a full-time police officer for the village of Skaneateles police department."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1232"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
@@ -75,6 +79,81 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
       }
+    },
+    {
+      "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CIVIL SERVICE AND PENSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CIVIL SERVICE AND PENSIONS",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1232A",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.1790",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A6148A",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -88,6 +167,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 6148",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 6148",
       "legislative_session": "2025-2026",
@@ -124,6 +208,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S1232A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S1232A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -150,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

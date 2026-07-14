@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s1190"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:41Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -61,6 +83,14 @@
       "organization_id": null
     },
     {
+      "name": "Jeremy Cooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Cooney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nathalia Fernandez",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -74,6 +104,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Andrew Gounardes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Hinchey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Hinchey\"}",
       "organization_id": null
     },
     {
@@ -141,6 +179,22 @@
       "organization_id": null
     },
     {
+      "name": "Gustavo Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gustavo Rivera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Ryan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher Ryan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jessica Scarcella-Spanton",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -154,6 +208,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Luis R. Sep\\u00falveda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 M. Serrano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
       "organization_id": null
     },
     {
@@ -324,6 +386,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:41Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

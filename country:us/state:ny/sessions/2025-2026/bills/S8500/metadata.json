@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S8500",
-  "title": "Establishes a right of action for the deprivation of constitutional rights",
+  "title": "Establishes the New York civil rights act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8500"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -33,6 +37,74 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
       }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO RULES",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8500A",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8500B",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +114,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Zellnor Myrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cordell Cleare",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cordell Cleare\"}",
       "organization_id": null
     },
     {
@@ -101,11 +181,27 @@
       "organization_id": null
     },
     {
+      "name": "Robert Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brian Kavanagh",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Brian Kavanagh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Krueger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Krueger\"}",
       "organization_id": null
     },
     {
@@ -173,6 +269,22 @@
       "organization_id": null
     },
     {
+      "name": "Luis R. Sep\u00falveda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Luis R. Sep\\u00falveda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 M. Serrano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
+      "organization_id": null
+    },
+    {
       "name": "Toby Ann Stavisky",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -199,6 +311,16 @@
       "identifier": "A 9076",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "A 9076",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 9076",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -216,10 +338,48 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8500A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8500A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S8500B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8500B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "CVR \u00a7 85",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CVR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CVR \u00a7 85",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CVR/"
+    },
     {
       "publication": "New York Laws",
       "citation": "CVR \u00a7 85",
@@ -251,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:23:57Z"
   }
 }

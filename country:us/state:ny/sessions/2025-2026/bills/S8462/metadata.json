@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8462"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:52Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -69,6 +91,14 @@
       "organization_id": null
     },
     {
+      "name": "Erik Bottcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erik Bottcher\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jabari Brisport",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -82,6 +112,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Samra Brouk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cordell Cleare",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cordell Cleare\"}",
       "organization_id": null
     },
     {
@@ -133,19 +171,19 @@
       "organization_id": null
     },
     {
-      "name": "Brad Hoylman-Sigal",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
-      "organization_id": null
-    },
-    {
       "name": "Robert Jackson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Robert Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Liu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Liu\"}",
       "organization_id": null
     },
     {
@@ -186,6 +224,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Luis R. Sep\\u00falveda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jos\u00e9 M. Serrano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
       "organization_id": null
     },
     {
@@ -259,6 +305,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:52Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6192"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -202,6 +206,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.154",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -415,14 +429,6 @@
       "organization_id": null
     },
     {
-      "name": "Matthew Simpson",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Matthew Simpson\"}",
-      "organization_id": null
-    },
-    {
       "name": "Albert A. Stirpe",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -468,6 +474,54 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Keith Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Didi Barrett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Didi Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Gonzalez-Rojas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Gonzalez-Rojas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeffrey Dinowitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeffrey Dinowitz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Stern",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Stern\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Steck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Steck\"}",
       "organization_id": null
     }
   ],
@@ -731,6 +785,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A5024",
-  "title": "Directs the Department of Transportation to conduct a study of bridges spanning bodies of water connected to deep water ports in the state",
+  "title": "Directs the department of transportation and certain public authorities to study certain bridges spanning bodies of water connected to deep water ports in the state",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Directs the Department of Transportation to conduct a study of certain bridges spanning bodies of water connected to deep water ports in the state to determine whether such bridges have the structural integrity to withstand an impact from large vessels such as cargo ships, oil tankers and cruise ships; requires a report and recommendations; provides for the repeal of such provisions upon the expiration thereof."
+      "abstract": "Directs the Department of Transportation, the Bridge Authority, the Triborough Bridge and Tunnel authority, the Thruway authority, and the Port Authority of New York and New Jersey to each conduct a study of certain bridges spanning bodies of water connected to deep water ports in the state to determine whether such bridges have the structural integrity to withstand an impact from large vessels such as cargo ships, oil tankers and cruise ships; requires a report and recommendations; provides for the repeal of such provisions upon the expiration thereof."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a5024"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO TRANSPORTATION",
@@ -33,6 +37,92 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
       }
+    },
+    {
+      "description": "REFERRED TO TRANSPORTATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "TRANSPORTATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO TRANSPORTATION",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5024A",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO WAYS AND MEANS",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO WAYS AND MEANS",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5024B",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +136,21 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 9216",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9216",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9216",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 9965",
       "legislative_session": "2023-2024",
@@ -62,6 +167,28 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5024",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A5024A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5024A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A5024B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A5024B",
           "media_type": "application/pdf"
         }
       ],
@@ -93,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:57Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A1080",
-  "title": "Allows schools to provide water safety instruction to students in grades kindergarten through twelve",
+  "title": "Establishes a mandatory statewide, classroom-based water safety education program",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows schools to provide water safety instruction to students in grades kindergarten through twelve; allows for the commissioner of education to provide technical assistance to develop curricula for water safety instruction."
+      "abstract": "Establishes a mandatory statewide, classroom-based water safety education program; provides that the commissioner of education shall work with New York State Association for Health, Physical Education, Recreation and Dance certified educators to develop and promulgate a statewide, age-appropriate, classroom-based water safety education guidance document; provides that within twenty-four months of the effective date of the bill, the department of education shall initiate statewide implementation of water safety education; provides that instruction shall be classroom-based and waterless and shall not require student access to aquatic facilities, swimming instruction, or in-water assessment."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1080"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO EDUCATION",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:49Z"
+      }
+    },
+    {
+      "description": "REFERRED TO EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO EDUCATION",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 1080A",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
       }
     }
   ],
@@ -159,6 +206,16 @@
   ],
   "related_bills": [
     {
+      "identifier": "S 9480",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9480",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "A 4846",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -189,10 +246,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A1080A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A1080A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 804-E",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A1080?summary=&detail=",
@@ -215,6 +292,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:49Z"
+    "logs_latest_update": "2026-07-14T13:23:46Z"
   }
 }

@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6546"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HIGHER EDUCATION",
@@ -33,6 +37,24 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
       }
+    },
+    {
+      "description": "REFERRED TO HIGHER EDUCATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HIGHER EDUCATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,23 +67,170 @@
       "organization_id": null
     },
     {
-      "name": "Billy Jones",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Billy Jones\"}",
-      "organization_id": null
-    },
-    {
       "name": "Sarahana Shrestha",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sarahana Shrestha\"}",
       "organization_id": null
+    },
+    {
+      "name": "Karl Brabenec",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karl Brabenec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chantel Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chantel Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Benedetto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Benedetto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deborah Glick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deborah Glick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Magnarelli",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Magnarelli\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeffrey Dinowitz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeffrey Dinowitz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe DeStefano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe DeStefano\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Colton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Colton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Manktelow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Manktelow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Gray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "MaryJane Shimsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"MaryJane Shimsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Cashman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Cashman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grace Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Philip Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Philip Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen McMahon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen McMahon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Alvarez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Alvarez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Weprin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Weprin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Stern",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Stern\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 9222",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9222",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A6546",
@@ -103,6 +272,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

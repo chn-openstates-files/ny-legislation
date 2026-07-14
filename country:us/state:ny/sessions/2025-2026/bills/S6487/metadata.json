@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s6487"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
@@ -83,6 +87,89 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:51Z"
       }
+    },
+    {
+      "description": "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 6487C",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.565",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY A7033D",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,6 +179,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nathalia Fernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gustavo Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gustavo Rivera\"}",
       "organization_id": null
     }
   ],
@@ -149,10 +244,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S6487C",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S6487C",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ACA \u00a7 3.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ACA/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ACA \u00a7 3.05",
@@ -192,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:51Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

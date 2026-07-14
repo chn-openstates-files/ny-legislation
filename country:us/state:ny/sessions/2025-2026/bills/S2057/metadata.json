@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2057"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
@@ -115,6 +119,126 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
       }
+    },
+    {
+      "description": "DIED IN ASSEMBLY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "RETURNED TO SENATE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENVIRONMENTAL CONSERVATION",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENVIRONMENTAL CONSERVATION",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "1ST REPORT CAL.646",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "2ND REPORT CAL.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMENDED 2057B",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "PASSED SENATE",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO ASSEMBLY",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -143,11 +267,27 @@
       "organization_id": null
     },
     {
+      "name": "Jake Ashby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Ashby\"}",
+      "organization_id": null
+    },
+    {
       "name": "April Baskin",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"April Baskin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erik Bottcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erik Bottcher\"}",
       "organization_id": null
     },
     {
@@ -188,6 +328,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Leroy Comrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Cooney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Cooney\"}",
       "organization_id": null
     },
     {
@@ -247,14 +395,6 @@
       "organization_id": null
     },
     {
-      "name": "Brad Hoylman-Sigal",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
-      "organization_id": null
-    },
-    {
       "name": "Robert Jackson",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -287,6 +427,14 @@
       "organization_id": null
     },
     {
+      "name": "Jack M. Martins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack M. Martins\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rachel May",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -303,11 +451,27 @@
       "organization_id": null
     },
     {
+      "name": "Zellnor Myrie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zellnor Myrie\"}",
+      "organization_id": null
+    },
+    {
       "name": "Peter Oberacker",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Peter Oberacker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony H. Palumbo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony H. Palumbo\"}",
       "organization_id": null
     },
     {
@@ -324,6 +488,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Roxanne J. Persaud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Rolison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Rolison\"}",
       "organization_id": null
     },
     {
@@ -381,6 +561,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"James Skoufis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Toby Ann Stavisky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Toby Ann Stavisky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Sutton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Sutton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -436,10 +632,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2057B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2057B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 A37T12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-3703",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ENV \u00a7 A37T12",
@@ -495,6 +718,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:46Z"
   }
 }

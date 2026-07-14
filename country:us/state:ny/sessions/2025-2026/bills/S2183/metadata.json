@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S2183",
-  "title": "Enacts the \"electric super highway act\"",
+  "title": "Enacts the \"Greener Highways Act\"",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Enacts the \"electric super highway act\", requiring alternative fuels to be available for public use along the New York state thruway after November 1, 2025 and providing each recommended alternative fuel at least every one hundred twenty miles on both sides of the thruway; defines \"alternative fuel\"."
+      "abstract": "Enacts the \"Greener Highways Act\", requiring alternative fuels to be available for public use along the New York state thruway after November 1, 2029 and providing each recommended alternative fuel at least every one hundred twenty miles on both sides of the thruway; defines \"alternative fuel\"."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s2183"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
@@ -69,6 +73,61 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ENERGY AND TELECOMMUNICATIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 2183B",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:53Z"
       }
     }
   ],
@@ -160,6 +219,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S2183B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S2183B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -211,6 +281,30 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 1851",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 1855",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBA \u00a7 354",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBA/"
     }
   ],
   "sources": [
@@ -235,6 +329,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:23:53Z"
   }
 }

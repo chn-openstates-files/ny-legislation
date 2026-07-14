@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to excepting situations where a physician is authorized to dispense certain medications and practices medicine in the oncology setting from the direction that the department of health remove the pharmacy benefit from the managed care benefit package and provide the pharmacy benefit under the fee for service program."
+      "abstract": "Relates to excepting situations where a physician or other licensed health care provider is authorized to dispense certain medications and is practicing medicine in the oncology setting and is dispensing oncology drugs or drugs related to an approved course of treatment used to manage symptoms related to cancer or cancer therapies."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7817"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HEALTH",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
       }
+    },
+    {
+      "description": "REFERRED TO HEALTH",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HEALTH",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO HEALTH",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7817A",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +90,36 @@
       "primary": true,
       "person_id": "~{\"name\": \"Amy Paulin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tommy Schiavoni",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tommy Schiavoni\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John T. McDonald III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John T. McDonald III\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 9434",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 9434",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "A7817",
@@ -56,6 +130,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7817",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A7817A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7817A",
           "media_type": "application/pdf"
         }
       ],
@@ -87,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

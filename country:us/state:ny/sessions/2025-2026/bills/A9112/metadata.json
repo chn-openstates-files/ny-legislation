@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A9112",
-  "title": "Prohibits the use of credit history in the tenant screening process for applicants who are survivors of domestic violence or recipients of rental subsidies",
+  "title": "Prohibits the use of credit history in the tenant screening process for applicants who are survivors of domestic violence",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Provides that a landlord shall not request, obtain, or consider a consumer credit report or credit history for a prospective tenant who provides documentation that they are a victim of domestic violence or recipient of rental subsidies, and shall not deny an application for rental housing on the basis of credit history when the applicant is a victim of domestic violence or receives rental subsidies."
+      "abstract": "Provides that a landlord shall not request, obtain, or consider a consumer credit report or credit history for a prospective tenant who provides a written self-attestation that they are a victim of domestic violence, and shall not deny an application for rental housing on the basis of credit history when the applicant is a victim of domestic violence."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a9112"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING",
@@ -58,6 +62,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:35Z"
       }
+    },
+    {
+      "description": "REFERRED TO HOUSING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HOUSING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HOUSING",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 9112B",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +144,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A9112B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A9112B",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -112,6 +170,14 @@
     {
       "publication": "New York Laws",
       "citation": "RPP \u00a7 238-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPP \u00a7 238-B",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -140,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:35Z"
+    "logs_latest_update": "2026-07-14T13:23:48Z"
   }
 }

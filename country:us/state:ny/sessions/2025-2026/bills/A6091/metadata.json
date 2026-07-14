@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a6091"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO GOVERNMENTAL EMPLOYEES",
@@ -51,6 +55,24 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
       }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -60,14 +82,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"John T. McDonald III\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
       "organization_id": null
     },
     {
@@ -92,6 +106,54 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gabriella Romero\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Colton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Colton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Sempolinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Sempolinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott H. Bendett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott H. Bendett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Pheffer Amato",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stacey Pheffer Amato\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donna Lupardo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donna Lupardo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Simpson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Simpson\"}",
       "organization_id": null
     }
   ],
@@ -158,6 +220,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

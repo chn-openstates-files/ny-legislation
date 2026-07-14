@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s4465"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -32,6 +36,24 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LABOR",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LABOR",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:44Z"
       }
     }
   ],
@@ -58,6 +80,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Samra Brouk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Siela Bynoe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Siela Bynoe\"}",
       "organization_id": null
     },
     {
@@ -90,6 +120,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Patrick M. Gallivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristen Gonzalez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen Gonzalez\"}",
       "organization_id": null
     },
     {
@@ -157,6 +195,14 @@
       "organization_id": null
     },
     {
+      "name": "Jessica Ramos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gustavo Rivera",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -202,6 +248,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"James Skoufis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lea Webb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lea Webb\"}",
       "organization_id": null
     }
   ],
@@ -272,6 +326,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:23:44Z"
   }
 }

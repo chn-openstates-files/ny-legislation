@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A8594",
-  "title": "Relates to used motor vehicles",
+  "title": "Relates to the lemon law applied to new or used motor vehicles",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Updates and amends provisions of the lemon law relating to mileage and fines."
+      "abstract": "Relates to the lemon law applied to the purchase or lease of new or used motor vehicles; updates and amends provisions of the lemon law relating to mileage, fines and arbitration procedures, and notices to consumers."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8594"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CONSUMER AFFAIRS AND PROTECTION",
@@ -99,6 +103,28 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
       }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.215",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMENDED ON THIRD READING (T) 8594A",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -112,11 +138,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 8430",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "S 8430",
       "legislative_session": "2025-2026",
@@ -138,10 +159,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8594A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8594A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 198-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "GBS \u00a7 198-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/GBS/"
+    },
     {
       "publication": "New York Laws",
       "citation": "GBS \u00a7 198-A",
@@ -181,6 +229,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:23:46Z"
   }
 }

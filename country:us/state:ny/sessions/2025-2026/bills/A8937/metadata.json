@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires landlords and property managers of public and private multifamily buildings in cities with a population of a million or more to provide notice to tenants on proper protocol for recycling including information on materials that are acceptable; requires the division of housing and community renewal to develop an example notice and make it available on its website for use by landlords and property managers."
+      "abstract": "Requires landlords and property managers of public and private multifamily buildings in cities with a population of a million or more to provide notice to tenants on proper protocol for recycling including information on materials that are acceptable; requires the division of sanitation to develop an example notice and make it available on its website for use by landlords and property managers."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8937"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO HOUSING",
@@ -32,6 +36,67 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:48Z"
+      }
+    },
+    {
+      "description": "REFERRED TO HOUSING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "HOUSING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO HOUSING",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8937A",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
+      }
+    },
+    {
+      "description": "REPORTED REFERRED TO CODES",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:04Z"
       }
     }
   ],
@@ -56,6 +121,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8937",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8937A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8937A",
           "media_type": "application/pdf"
         }
       ],
@@ -96,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:48Z"
+    "logs_latest_update": "2026-07-14T13:24:04Z"
   }
 }

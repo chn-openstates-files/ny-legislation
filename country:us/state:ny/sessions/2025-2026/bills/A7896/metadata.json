@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A7896",
-  "title": "Clarifies the definition of business records and the use of such records in grand jury proceedings",
+  "title": "Relates to the introduction and use of business records in grand jury proceedings",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Clarifies the definition of business records and the use of such records in grand jury proceedings."
+      "abstract": "Provides that any writing or record made as a memorandum or record of any act, transaction, occurrence or event, may be received in grand jury proceedings as evidence of proof that such act, transaction, occurrence or event, if it was made in the regular course of any business."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7896"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -33,6 +37,79 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CODES",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7896A",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "REPORTED",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "ADVANCED TO THIRD READING CAL.357",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "SUBSTITUTED BY S9758",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,12 +124,12 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 8298",
+      "identifier": "S 9758",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 8298",
+      "identifier": "S 9758",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     }
@@ -67,6 +144,17 @@
         },
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7896",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A7896A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7896A",
           "media_type": "application/pdf"
         }
       ],
@@ -98,6 +186,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

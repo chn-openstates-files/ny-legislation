@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S4197",
-  "title": "Expands the ethical duties of public officers and employees",
+  "title": "Relates to the ethical duty of public officers not to engage in or permit behavior which violates the human rights law",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Expands the ethical duties of public officers and employees to include compliance with the state human rights law and any policies or procedures implemented by their employer related thereto."
+      "abstract": "Relates to the ethical standards of officers or employees of a state agency, members of the legislature and legislative employees with regard to engaging in acts of discrimination, sexual harassment or creating a hostile workplace."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s4197"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ETHICS AND INTERNAL GOVERNANCE",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:41Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ETHICS AND INTERNAL GOVERNANCE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ETHICS AND INTERNAL GOVERNANCE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ETHICS AND INTERNAL GOVERNANCE",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 4197A",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:46Z"
       }
     }
   ],
@@ -54,6 +101,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 6201",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 6201",
       "legislative_session": "2025-2026",
@@ -90,10 +142,37 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S4197A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S4197A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PBO \u00a7 74",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBO/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 94",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PBO \u00a7 74",
@@ -125,6 +204,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:41Z"
+    "logs_latest_update": "2026-07-14T13:23:46Z"
   }
 }

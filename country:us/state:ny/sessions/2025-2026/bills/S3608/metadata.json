@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s3608"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
@@ -33,6 +37,49 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:50Z"
       }
+    },
+    {
+      "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CIVIL SERVICE AND PENSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO CIVIL SERVICE AND PENSIONS",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 3608A",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +89,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pamela Helming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas F. O'Mara",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. O'Mara\"}",
       "organization_id": null
     },
     {
@@ -73,6 +128,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "A 6450",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 9062",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
@@ -93,6 +153,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S3608A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S3608A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -100,6 +171,38 @@
     {
       "publication": "New York Laws",
       "citation": "RSS \u00a7 89-Y",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 445",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 603",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 604",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RSS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RSS \u00a7 89-Z",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
@@ -152,6 +255,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:50Z"
+    "logs_latest_update": "2026-07-14T13:24:02Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S8548",
-  "title": "Relates to the payment of property taxes to municipalities by hospitals considered nonprofit organizations",
+  "title": "Relates to the payment of property taxes to municipalities by any nonprofit organization",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the payment of property taxes to municipalities by hospitals considered nonprofit organizations; requires hospitals that would typically be exempt from property taxes based on nonprofit status to pay 75 percent of its annual property taxes to the municipality in which it sits in order to offset the impact of the exemption."
+      "abstract": "Relates to the payment of property taxes to municipalities by any nonprofit organization; requires nonprofit organizations that would typically be exempt from property taxes based on nonprofit status to pay 75 percent of its annual property taxes to the municipality in which it sits in order to offset the impact of the exemption."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8548"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO RULES",
+      "date": "2025-12-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8548A",
+      "date": "2025-12-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "REFERRED TO LOCAL GOVERNMENT",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "LOCAL GOVERNMENT",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -61,10 +108,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8548A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8548A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "RPT \u00a7 420-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPT/"
+    },
     {
       "publication": "New York Laws",
       "citation": "RPT \u00a7 420-A",
@@ -96,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

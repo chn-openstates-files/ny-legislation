@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows uncommitted funds in the New York state climate investment account to be returned to ratepayers."
+      "abstract": "Allows surplus or uncommitted funds in the New York state climate investment account to be returned to ratepayers."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s8461"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RULES",
@@ -33,6 +37,59 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:40Z"
       }
+    },
+    {
+      "description": "REFERRED TO FINANCE",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "FINANCE",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO FINANCE",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8461A",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
+    },
+    {
+      "description": "NOTICE OF COMMITTEE CONSIDERATION - REQUESTED",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,9 +100,188 @@
       "primary": true,
       "person_id": "~{\"name\": \"Thomas F. O'Mara\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jake Ashby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Borrello",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Borrello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patricia Canzoneri-Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patricia Canzoneri-Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen T. Chan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen T. Chan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick M. Gallivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick M. Gallivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph A. Griffo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph A. Griffo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pamela Helming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pamela Helming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew J. Lanza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew J. Lanza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack M. Martins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack M. Martins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mario Mattera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mario Mattera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dean Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dean Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Oberacker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Oberacker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Ortt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Ortt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anthony H. Palumbo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anthony H. Palumbo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Rhoads",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Rhoads\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Rolison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Rolison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Stec",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Stec\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Tedisco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Tedisco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Walczyk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Walczyk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alexis Weik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alexis Weik\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "A 8876",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "A 8876",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "S8461",
@@ -61,10 +297,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S8461A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S8461A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 99-QQ",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
     {
       "publication": "New York Laws",
       "citation": "STF \u00a7 99-QQ",
@@ -96,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:40Z"
+    "logs_latest_update": "2026-07-14T13:23:59Z"
   }
 }

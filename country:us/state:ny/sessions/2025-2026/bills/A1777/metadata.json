@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1777"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -58,6 +62,24 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
       }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +89,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Linda Rosenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monique Chandler-Waterman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monique Chandler-Waterman\"}",
       "organization_id": null
     },
     {
@@ -198,14 +228,6 @@
       "organization_id": null
     },
     {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
-      "organization_id": null
-    },
-    {
       "name": "Jen Lunsford",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -260,16 +282,48 @@
       "primary": false,
       "person_id": "~{\"name\": \"Brian Cunningham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Anna Kelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Kelles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan Rivera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan Rivera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deborah Glick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deborah Glick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Stern",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Stern\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
     {
-      "identifier": "S 227",
+      "identifier": "S 9827",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 227",
+      "identifier": "S 9827",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -356,6 +410,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:23:47Z"
   }
 }

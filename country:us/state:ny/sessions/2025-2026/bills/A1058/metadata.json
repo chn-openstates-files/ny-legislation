@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1058"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO LABOR",
@@ -33,6 +37,16 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:44Z"
       }
+    },
+    {
+      "description": "ENACTING CLAUSE STRICKEN",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +56,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Zohran Mamdani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phara Souffrant Forrest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phara Souffrant Forrest\"}",
       "organization_id": null
     }
   ],
@@ -93,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:44Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

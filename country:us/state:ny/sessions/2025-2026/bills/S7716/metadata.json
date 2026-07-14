@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s7716"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
@@ -33,6 +37,24 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:45Z"
       }
+    },
+    {
+      "description": "REFERRED TO CIVIL SERVICE AND PENSIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CIVIL SERVICE AND PENSIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +64,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jessica Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erik Bottcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erik Bottcher\"}",
       "organization_id": null
     },
     {
@@ -58,14 +88,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jeremy Cooney\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brad Hoylman-Sigal",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Brad Hoylman-Sigal\"}",
       "organization_id": null
     }
   ],
@@ -131,6 +153,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:45Z"
+    "logs_latest_update": "2026-07-14T13:23:50Z"
   }
 }

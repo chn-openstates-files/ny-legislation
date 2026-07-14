@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Authorizes up to two percent of mobile sports tax revenue, but not more than twenty million dollars, be used for youth team sports funding to be distributed by county youth bureaus, city of New York's department of youth and community development, and an organization which supports and invests in programs that use sports as a vehicle for youth development and social change."
+      "abstract": "Authorizes up to two percent of mobile sports tax revenue, but not more than twenty-three million dollars, be used for youth team sports funding to be distributed by county youth bureaus, city of New York's department of youth and community development, and an organization which supports and invests in programs that use sports as a vehicle for youth development and social change."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s5640"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RACING, GAMING AND WAGERING",
@@ -108,6 +112,61 @@
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
       }
+    },
+    {
+      "description": "REFERRED TO RACING, GAMING AND WAGERING",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "RACING, GAMING AND WAGERING",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "AMEND AND RECOMMIT TO RACING, GAMING AND WAGERING",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 5640D",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "REPORTED AND COMMITTED TO FINANCE",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +227,14 @@
       "organization_id": null
     },
     {
+      "name": "Jos\u00e9 M. Serrano",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jos\\u00e9 M. Serrano\"}",
+      "organization_id": null
+    },
+    {
       "name": "Toby Ann Stavisky",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -177,6 +244,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "A 8167",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    },
     {
       "identifier": "A 8167",
       "legislative_session": "2025-2026",
@@ -246,10 +318,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S5640D",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S5640D",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "PML \u00a7 1367",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PML/"
+    },
     {
       "publication": "New York Laws",
       "citation": "PML \u00a7 1367",
@@ -305,6 +396,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

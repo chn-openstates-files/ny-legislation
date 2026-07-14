@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A7779",
-  "title": "Provides for the care of retired law enforcement dogs",
+  "title": "Relates to veterinary care for retired law enforcement and retired fire investigation dogs",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Directs the division of criminal justice services to establish a program for the care of retired law enforcement dogs which shall cover the cost of veterinary care for retired law enforcement dogs for the remainder of the lifetime of such dogs."
+      "abstract": "Requires the division of criminal justice services to establish a veterinary care program to care for retired law enforcement dogs in the service of or utilized by law enforcement agencies and retired fire investigation."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a7779"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -50,6 +54,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:37Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO WAYS AND MEANS",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 7779A",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:56Z"
       }
     }
   ],
@@ -233,12 +280,12 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 2041",
+      "identifier": "S 10422",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 2041",
+      "identifier": "S 10422",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -268,10 +315,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A7779A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A7779A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 844",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A7779?summary=&detail=",
@@ -294,6 +361,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:37Z"
+    "logs_latest_update": "2026-07-14T13:23:56Z"
   }
 }

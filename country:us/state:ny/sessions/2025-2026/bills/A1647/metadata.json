@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to dispensing certain controlled substances for use by a person with a substance use disorder during certain emergency medical treatment, or to relieve acute withdrawal symptoms."
+      "abstract": "Decriminalizes the possession of buprenorphine from certain crimes."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1647"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -57,6 +61,34 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
+      }
+    },
+    {
+      "description": "AMEND BY RESTORING TO ORIGINAL PRINT 1647",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:49Z"
       }
     }
   ],
@@ -232,7 +264,7 @@
   ],
   "related_bills": [
     {
-      "identifier": "S 3883",
+      "identifier": "S 2331",
       "legislative_session": "2025-2026",
       "relation_type": "companion"
     },
@@ -321,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:23:49Z"
   }
 }

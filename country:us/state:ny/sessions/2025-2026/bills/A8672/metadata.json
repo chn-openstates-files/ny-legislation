@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Eliminates court surcharges and fees and probation and parole surcharges and fees; eliminates the requirement that a parolee or releasee receiving a merit termination of sentence be financially able to comply with an order of restitution; eliminates the requirement that a person receiving a discharge of sentence be financially able to comply with an order of restitution and the payment of certain surcharges or fees (Part A); prohibits mandatory minimum fines for penal law and vehicle and traffic offenses (Part B); mandates that courts engage in an individualized assessment of a person's financial ability to pay a fine prior to imposing a fine (Part C); eliminates the availability of incarceration as a remedy for a failure to pay a fine, surcharge, or fee, lifts and vacates existing warrants issued solely on a person's failure to timely pay a fine, surcharge or fee and ends existing sentences of incarceration based on such failure (Part D); vacates existing unsatisfied civil judgments based on a person's failure to timely pay a surcharge, or fee (Part E); prohibits the collection of a fine, restitution or reparation from the funds of an incarcerated person; prohibits the payment of court fines, mandatory surcharges, certain fees, restitution, reparation or forfeitures from the earnings of prisoners (Part F); vacates existing unpaid surcharges, DNA databank fees, crime victim assistance fees, sexual offender registration fees, supplemental sex offender victim fees, or probation or parole supervision fees; repeals certain provisions of law relating to restrictions on remitting such fees (Part G)."
+      "abstract": "Eliminates certain court surcharges and fees and probation and parole surcharges and fees; eliminates the requirement that a parolee or releasee receiving a merit termination of sentence be financially able to comply with an order of restitution; eliminates the requirement that a person receiving a discharge of sentence be financially able to comply with an order of restitution and the payment of certain surcharges or fees (Part A); mandates that courts engage in an individualized assessment of a person's financial ability to pay a fine prior to imposing a fine (Part B); eliminates the availability of incarceration as a remedy for a failure to pay a fine, surcharge, or fee, lifts and vacates existing warrants issued solely on a person's failure to timely pay a fine, surcharge or fee and ends existing sentences of incarceration based on such failure (Part C); vacates existing unsatisfied civil judgments based on a person's failure to timely pay a surcharge, or fee (Part D); prohibits the collection of a fine, restitution or reparation from the funds of an incarcerated person; prohibits the payment of court fines, mandatory surcharges, certain fees, restitution, reparation or forfeitures from the earnings of prisoners (Part E); vacates existing unpaid surcharges, DNA databank fees, crime victim assistance fees, sexual offender registration fees, supplemental sex offender victim fees, or probation or parole supervision fees; repeals certain provisions of law relating to restrictions on remitting such fees (Part F)."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8672"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO CODES",
@@ -32,6 +36,49 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:36Z"
+      }
+    },
+    {
+      "description": "REFERRED TO CODES",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "CODES",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO CODES",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8672A",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:43Z"
       }
     }
   ],
@@ -90,14 +137,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Phara Souffrant Forrest\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Zohran Mamdani",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Zohran Mamdani\"}",
       "organization_id": null
     },
     {
@@ -371,6 +410,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Alicia Hyndman\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gabriella Romero",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabriella Romero\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Moreno\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -415,10 +470,246 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "A8672A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8672A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 420.11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 1811",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 154",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "COR \u00a7 205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/COR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 420.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 420.30",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 430.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CVP \u00a7 1101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CVP/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 259-I",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 259-J",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 837-I",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PAR \u00a7 27.12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PAR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 60.02",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 80.05",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "STF \u00a7 99-N",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/STF/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VIL \u00a7 4-411",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VIL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 420.10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 420.30",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 420.35",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "CPL \u00a7 430.20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/CPL/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ENV \u00a7 71-0213",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ENV/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 837-J",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PAR \u00a7 27.12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PAR/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PEN \u00a7 60.35",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PEN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 1809",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 1809-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EXC \u00a7 257-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EXC/"
+    }
+  ],
   "sources": [
     {
       "url": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A8672?summary=&detail=",
@@ -441,6 +732,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:36Z"
+    "logs_latest_update": "2026-07-14T13:23:43Z"
   }
 }

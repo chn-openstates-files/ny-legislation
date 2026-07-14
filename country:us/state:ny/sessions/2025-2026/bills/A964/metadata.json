@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A964",
-  "title": "Allows for justices to reside in any town, village or city within the same assembly district as the court such justice serves and establishes educational requirements for certain town and village justices",
+  "title": "Allows for justices to reside in any town, village or city within the same assembly district, county, or adjoining county as the court such justice serves; establishes educational requirements",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Allows for justices to reside in any town, village or city contained in whole or in part within the same assembly district as the court such justice serves or in an assembly district contiguous to such municipality where the court is located; authorizes towns and villages to require that any person who serves as a town or village justice be admitted to practice law in the state."
+      "abstract": "Allows for justices to reside in any town, village or city contained in whole or in part within the same assembly district, county or adjoining county as the court such justice serves or in an assembly district contiguous to such municipality where the court is located, provided such assembly district is contained entirely within a single county; sets forth residence requirements where an assembly district encompasses two or more counties; authorizes towns and villages to require that any person who serves as a town or village justice be admitted to practice law in the state."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a964"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO JUDICIARY",
@@ -57,6 +61,49 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:39Z"
+      }
+    },
+    {
+      "description": "REFERRED TO JUDICIARY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO JUDICIARY",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 964B",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -214,14 +261,6 @@
       "organization_id": null
     },
     {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
-      "organization_id": null
-    },
-    {
       "name": "Tony Simone",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -231,16 +270,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 7676",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
-      "identifier": "S 7676",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "A 1146",
       "legislative_session": "2023-2024",
@@ -273,6 +302,17 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A964A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A964B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A964B",
           "media_type": "application/pdf"
         }
       ],
@@ -329,6 +369,38 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/UCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "UJC \u00a7 105-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/UJC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "UJC \u00a7 106-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/UJC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "PBO \u00a7 3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/PBO/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "UCT \u00a7 2104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/UCT/"
     }
   ],
   "sources": [
@@ -353,6 +425,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:39Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }

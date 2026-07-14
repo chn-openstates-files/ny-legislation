@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a1245"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO WAYS AND MEANS",
@@ -57,6 +61,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:43Z"
+      }
+    },
+    {
+      "description": "REFERRED TO WAYS AND MEANS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "WAYS AND MEANS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:01Z"
       }
     }
   ],
@@ -284,42 +306,58 @@
       "primary": false,
       "person_id": "~{\"name\": \"Sarah Clark\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kalman Yeger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kalman Yeger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anna Kelles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Kelles\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
     {
-      "identifier": "S 4202",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
-      "identifier": "S 4202",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
-    {
-      "identifier": "S 2895",
+      "identifier": "A 1563",
       "legislative_session": "2023-2024",
       "relation_type": "prior-session"
     },
     {
-      "identifier": "S 5836",
+      "identifier": "A 5724",
       "legislative_session": "2021-2022",
       "relation_type": "prior-session"
     },
     {
-      "identifier": "S 2798",
+      "identifier": "A 862",
       "legislative_session": "2019-2020",
       "relation_type": "prior-session"
     },
     {
-      "identifier": "S 4603",
+      "identifier": "A 3419",
       "legislative_session": "2017-2018",
       "relation_type": "prior-session"
     },
     {
-      "identifier": "S 7834",
+      "identifier": "A 2852",
       "legislative_session": "2015-2016",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 2123",
+      "legislative_session": "2013-2014",
+      "relation_type": "prior-session"
+    },
+    {
+      "identifier": "A 10635",
+      "legislative_session": "2011-2012",
       "relation_type": "prior-session"
     }
   ],
@@ -392,6 +430,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:43Z"
+    "logs_latest_update": "2026-07-14T13:24:01Z"
   }
 }

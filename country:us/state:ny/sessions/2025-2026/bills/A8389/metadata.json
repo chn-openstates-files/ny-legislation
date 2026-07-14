@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "A8389",
-  "title": "Relates to the calculation of child support; repealer",
+  "title": "Enacts the \"family reform act\"; repealer",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Relates to the calculation of child support; provides that child support amounts shall be calculated based on the non-custodial parent's income; excludes health insurance costs and federal and state income taxes paid from the calculation of income for child support calculation purposes; makes related provisions."
+      "abstract": "Enacts the \"family reform act\"; provides that child support amounts shall be calculated based on the non-custodial parent's income; excludes health insurance costs and federal and state income taxes paid from the calculation of income for child support calculation purposes; decreases the amount of time courts can imprison an individual for the non-payment of child support; requires courts to collect certain demographic information in relation to orders of child support issued, modified or enforced and publish a report on such information; makes related provisions."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a8389"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO JUDICIARY",
@@ -57,6 +61,59 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
+      }
+    },
+    {
+      "description": "REFERRED TO JUDICIARY",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "JUDICIARY",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO JUDICIARY",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 8389B",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
+      }
+    },
+    {
+      "description": "ENACTING CLAUSE STRICKEN",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:03Z"
       }
     }
   ],
@@ -110,14 +167,6 @@
       "organization_id": null
     },
     {
-      "name": "Kwani O'Pharrow",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Kwani O'Pharrow\"}",
-      "organization_id": null
-    },
-    {
       "name": "Larinda Hooks",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -127,11 +176,6 @@
     }
   ],
   "related_bills": [
-    {
-      "identifier": "S 8431",
-      "legislative_session": "2025-2026",
-      "relation_type": "companion"
-    },
     {
       "identifier": "S 8431",
       "legislative_session": "2025-2026",
@@ -159,6 +203,17 @@
       "links": [
         {
           "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8389A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A8389B",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/A8389B",
           "media_type": "application/pdf"
         }
       ],
@@ -279,6 +334,158 @@
       "effective": null,
       "expires": null,
       "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "ABC \u00a7 119",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ABC/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "DOM \u00a7 240",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/DOM/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6509-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "EDN \u00a7 6509-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/EDN/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 115",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 413",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 454",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 461",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "JUD \u00a7 90",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/JUD/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "RPP \u00a7 441-C",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/RPP/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "SOS \u00a7 111-I",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/SOS/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "VAT \u00a7 510",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "DOM \u00a7 240",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/DOM/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "DOM \u00a7 5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/DOM/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 413",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 454",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 458-A",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 458-B",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
+    },
+    {
+      "publication": "New York Laws",
+      "citation": "FCT \u00a7 5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/FCT/"
     }
   ],
   "sources": [
@@ -303,6 +510,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:24:03Z"
   }
 }

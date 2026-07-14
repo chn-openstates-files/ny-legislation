@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-a4279"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO RACING AND WAGERING",
@@ -95,6 +99,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:53Z"
+      }
+    },
+    {
+      "description": "ORDERED TO THIRD READING CAL.123",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:58Z"
       }
     }
   ],
@@ -282,6 +296,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Brian Cunningham\"}",
       "organization_id": null
+    },
+    {
+      "name": "Scott H. Bendett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott H. Bendett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrie Woerner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrie Woerner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthew Simpson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yudelka Tapia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yudelka Tapia\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -348,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:53Z"
+    "logs_latest_update": "2026-07-14T13:23:58Z"
   }
 }

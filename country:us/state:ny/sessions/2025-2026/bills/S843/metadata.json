@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S843",
-  "title": "Establishes minimum staffing levels for local board of elections",
+  "title": "Establishes minimum staffing levels for certain local board of elections",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "",
-      "abstract": "Requires every board of elections to employ a minimum of four full time employees in addition to the appointed commissioners within four years and shall employ two of those full time employees within two years; and two additional employees for every twenty thousand active registered voters beyond forty thousand active registered voters."
+      "abstract": "Requires a board of elections in a county with over ten thousand active registered voters to employ a minimum of four full-time employees which may include the commissioner and deputies if such positions are full time."
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-s843"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO ELECTIONS",
@@ -74,6 +78,49 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:54Z"
+      }
+    },
+    {
+      "description": "REFERRED TO ELECTIONS",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "ELECTIONS",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:41Z"
+      }
+    },
+    {
+      "description": "AMEND (T) AND RECOMMIT TO ELECTIONS",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:41Z"
+      }
+    },
+    {
+      "description": "PRINT NUMBER 843A",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:23:41Z"
       }
     }
   ],
@@ -156,10 +203,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S843A",
+      "links": [
+        {
+          "url": "http://legislation.nysenate.gov/pdf/bills/2025/S843A",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
   "citations": [
+    {
+      "publication": "New York Laws",
+      "citation": "ELN \u00a7 3-300",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.nysenate.gov/legislation/laws/ELN/"
+    },
     {
       "publication": "New York Laws",
       "citation": "ELN \u00a7 3-300",
@@ -191,6 +257,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:54Z"
+    "logs_latest_update": "2026-07-14T13:23:41Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "J1257",
-  "title": "Memorializing Governor Kathy Hochul to proclaim November 1, 2026, as Plant-Based Day in the State of New York",
+  "title": "Memorializing Governor Kathy Hochul to proclaim November 1, 2026, as World Vegan Day in the State of New York",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ny-2025_2026-j1257"
+    }
+  ],
   "actions": [
     {
       "description": "REFERRED TO FINANCE",
@@ -27,6 +31,28 @@
       ],
       "_processing": {
         "log_file_created": "2025-12-03T10:17:47Z"
+      }
+    },
+    {
+      "description": "REPORTED TO CALENDAR FOR CONSIDERATION",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
+      }
+    },
+    {
+      "description": "ADOPTED",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:24:00Z"
       }
     }
   ],
@@ -82,6 +108,6 @@
     "division_id": "ocd-division/country:us/state:ny"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T10:17:47Z"
+    "logs_latest_update": "2026-07-14T13:24:00Z"
   }
 }
